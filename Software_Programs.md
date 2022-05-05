@@ -54,10 +54,10 @@ Github is our main source code repository.
 ## Slack
 
 Download Slack from the App Store:
-  
-  1. Go to: [Slack](https://slack.com)
-  2. Login with google and your @renuo.ch account.
-  3. You should be able to join the renuo slack now
+ 
+1. Go to: [Slack](https://slack.com)
+2. Login with google and your @renuo.ch account.
+3. You should be able to join the renuo slack now
 
 ## Google Chrome Extensions
 

@@ -1,6 +1,11 @@
 # zsh
 
-This is an alternative shell to bash (Mac standard). It has some interesting features, a big community and its mechanisms are used in a wide range of scripts at Renuo. You don't have to install it, but be aware that all configuration steps below which involve .zshrc have to be customized to take into account the shell you're using. There is already a version of zsh installed on your Mac, but it's probably old. You can use homebrew to install a more recent one:
+This is an alternative shell to bash (Mac standard).
+It has some interesting features, a big community and its mechanisms are used in a wide range of scripts at Renuo.
+You don't have to install it, but be aware that all configuration steps
+below which involve .zshrc have to be customized to take into account the shell you're using.
+There is already a version of zsh installed on your Mac, but it's probably old.
+You can use homebrew to install a more recent one:
 
 - ```brew install zsh```
 
