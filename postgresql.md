@@ -4,4 +4,3 @@ Postgres is the main database we use for our projects. Install it and configure 
 
 - ```brew install postgresql```
 - ```brew services start postgresql```
-

@@ -1,4 +1,4 @@
-# Redis 
+# Redis
 
 Redis is used for ActionCable in Rails 5.2 and other projects with Sidekiq. You can use homebrew to install it:
 

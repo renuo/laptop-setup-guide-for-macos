@@ -1,4 +1,4 @@
-# Rubymine 
+# Rubymine
 
 In this step we will install our main IDE (Rubymine).
 

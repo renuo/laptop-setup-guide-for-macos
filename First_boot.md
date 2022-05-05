@@ -11,7 +11,7 @@ Now we're going to set up your freshly unboxed Macbook. Here in the list are som
 
 All other things are optional and you can choose them by yourself
 
-Start the machine and follow the macOS Setup. 
+Start the machine and follow the macOS Setup.
 
 ### Further important settings: System Preferences
 
@@ -27,16 +27,16 @@ Open the system preferences and configure the following options. Some options ne
   - Disable everything else because we're going to synchronize everything with Google in the next step.
 
 - **Internet Accounts**
-   - **Add "Google":** 
-      - Login with @renuo.ch
-      - Accept
-      - Choose what you want
+  - **Add "Google":**
+    - Login with @renuo.ch
+    - Accept
+    - Choose what you want
 - **Extensions**
   - Disable everything you don’t need
 - **Users & Groups**
-   - **Disable guest accounts** by unchecking box 
+  - **Disable guest accounts** by unchecking box
 
 More infos about how to increase your mac security can be found here: Set up your Mac to be secure:
 [Apple Support](https://support.apple.com/guide/mac-help/set-up-your-mac-to-be-secure-flvlt003/mac)
 
-For even much more information, visit this guide [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) 
+For even much more information, visit this guide [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)

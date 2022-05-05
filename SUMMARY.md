@@ -1,18 +1,19 @@
 # Summary
 
-- [Overview](Readme.md)]
+- [Overview](ReadMe.md)]
 
-# macOS Setup 
+# macOS Setup
+
 - [First boot](First_boot.md)
 - [Software Updates & Programs](Software_Programs.md)
 
-# Basic Tools Setup 
+# Basic Tools Setup
 
 - [Homebrew](Homebrew.md)
 - [zsh](zsh.md)
 - [git](git.md)
 - [git-flow](git_flow.md)
-- [asdf](asdf.md) 
+- [asdf](asdf.md)
 - [yarn](yarn.md)
 - [vim](vim.md)
 - [postgresql](postgresql.md)
@@ -22,7 +23,7 @@
 - [MYSQL](Mysql.md)
 - [Setup SSH Key](Setup_ssh_key.md)
 - [Heroku CLI](heroku_cli.md)
-- [Renuo CLI](renuo_cli.md) 
+- [Renuo CLI](renuo_cli.md)
 
 # Nice to have
 
@@ -37,4 +38,3 @@
 - [Keep you awake](Keep_you_awake.md)
 - [Rectangle](Rectangle.md)
 - [Alfred](Alfred.md)
-

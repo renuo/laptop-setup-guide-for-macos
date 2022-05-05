@@ -1,7 +1,6 @@
 # MySQL
 
-Enter the following two commands: 
+Enter the following two commands:
 
 - ``` brew install mysql ```
 - ``` brew install zstd ```
-

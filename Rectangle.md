@@ -1,4 +1,4 @@
-# Rectangle 
+# Rectangle
 
 [Regtangle](https://rectangleapp.com/) makes it possible to tile your windows with hotkeys.
 

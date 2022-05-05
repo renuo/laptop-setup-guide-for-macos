@@ -12,7 +12,7 @@ println("Hello, world!")
 puts "Hello, world!"
 ```
 
-## Welcome Renuooooaner !
+## Welcome Renuooooaner
 
 Or Renuer 😄 because you are going to renew the IT World.
 
@@ -25,13 +25,14 @@ You're now part of an "engineer driven" company and your laptop is the engine wh
 - **Read and understand the command line outputs:** The installer will tell you useful / necessary hints, which may require action. Additionally, this guide may be partly outdated soon, which makes it even more important to read the outputs of the installers.
 - **Discuss changes:** Please extend or correct this guide if you think the information is missing, wrong or outdated. Discuss the changes you want to make here with at least one other person before you make them.
 
-## macOS Setup 
-* [First boot](First_boot.md)
-* [Software Updates & Programs](Software_Programs.md)
+## macOS Setup
+
+- [First boot](First_boot.md)
+- [Software Updates & Programs](Software_Programs.md)
 
 For Renuo specific further setup follow this private guide [Information about Renuo](https://docs.google.com/document/d/1Pr5DQzfWo-YPUVc-kXyCay-d11dKsx0vZUWdwkSfMkc/)
 
-## Basic Tools Setup 
+## Basic Tools Setup
 
 Now follows the part where it gets more technical. There's a convention at Renuo for the directory structure of projects. In every project you'll find the following files:
 
@@ -39,32 +40,32 @@ Now follows the part where it gets more technical. There's a convention at Renuo
 - To run the tests: ``` bin/check ```
 - to run and try the application: ``` bin/run ```
 
-There are some requirements which need to be met first that this works. The following steps are going to prepare your system for that. 
+There are some requirements which need to be met first that this works. The following steps are going to prepare your system for that.
 
 If you are experienced you can choose your own setup, but we recommend that you follow our setup instructions.
 
-
-* [Homebrew](Homebrew.md)
-* [zsh](zsh.md)
-* [git](git.md)
-* [git-flow](git_flow.md)
-* [asdf](asdf.md) 
-* [yarn](yarn.md)
-* [vim](vim.md)
-* [postgresql](postgresql.md)
-* [GPG](GPG.md)
-* [Redis](Redis.md)
-* [Shared MIME Info](Shared_mime_info.md)
-* [MYSQL](Mysql.md)
-* [Setup SSH Key](Setup_ssh_key.md)
-* [Heroku CLI](heroku_cli.md)
-* [Renuo CLI](renuo_cli.md) 
+- [Homebrew](Homebrew.md)
+- [zsh](zsh.md)
+- [git](git.md)
+- [git-flow](git_flow.md)
+- [asdf](asdf.md)
+- [yarn](yarn.md)
+- [vim](vim.md)
+- [postgresql](postgresql.md)
+- [GPG](GPG.md)
+- [Redis](Redis.md)
+- [Shared MIME Info](Shared_mime_info.md)
+- [MYSQL](Mysql.md)
+- [Setup SSH Key](Setup_ssh_key.md)
+- [Heroku CLI](heroku_cli.md)
+- [Renuo CLI](renuo_cli.md)
 
 ## Finish Setup
 
 Now you should be able to clone any project from the Renuo GitHub and start up the website.
 
 To verify this:
+
 1. Clone a project. e.g.: [Gifcoins2](https://github.com/renuo/gifcoins2)
 2. Use: ```bin/setup```
 3. Use: ```bin/run```
@@ -75,16 +76,14 @@ Open the website in Google Chrome and check if everything is working.
 
 Now you finished with the Setup, below are some further recommendations. Do the Mac Setup before you do any of the next steps (except you know exactly what you are looking for). Here now follows the section with stuff that is nice to have. Cherry-pick!
 
-* [Rubymine](Rubymine.md)
-* [Signed commits](Signed_commits.md)
-* [Autojump](Autojump.md)
-* [Google Drive](Google_Drive.md)
-* [Sourcetree or Fork](Sourcetree_or_fork.md)
-* [Puma-dev or Hotel](Puma_or_hotel.md)
-* [Increase GitHub Quota](Increase_github_quota.md)
-* [Firefox, Opera etc.](Firefox.md)
-* [Keep you awake](Keep_you_awake.md)
-* [Rectangle](Rectangle.md)
-* [Alfred](Alfred.md)
-
-
+- [Rubymine](Rubymine.md)
+- [Signed commits](Signed_commits.md)
+- [Autojump](Autojump.md)
+- [Google Drive](Google_Drive.md)
+- [Sourcetree or Fork](Sourcetree_or_fork.md)
+- [Puma-dev or Hotel](Puma_or_hotel.md)
+- [Increase GitHub Quota](Increase_github_quota.md)
+- [Firefox, Opera etc.](Firefox.md)
+- [Keep you awake](Keep_you_awake.md)
+- [Rectangle](Rectangle.md)
+- [Alfred](Alfred.md)

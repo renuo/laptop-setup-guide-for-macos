@@ -3,22 +3,27 @@
 You can sign your git commits for improved security and account.
 
 **Step 1. Install Software**
+
 - ```brew install gpg2 pinentry-mac```
 
 **Step 2. Create** ~/.gnupg/gpg-agent.conf
-- Insert: 
-   - ```pinentry-program /opt/homebrew/bin/pinentry-mac```
+
+- Insert:
+  - ```pinentry-program /opt/homebrew/bin/pinentry-mac```
 
 **Step 3. Create** ~/.gnupg/gpg.conf
-- Insert: 
-   - ```use-agent```
+
+- Insert:
+  - ```use-agent```
 
 **Step 4. Modify** ~/.bashrc **or** ~/.zshrc
+
 - Append:
-   - ```export GPG_TTY="tty"```
-   - Restart Terminal
+  - ```export GPG_TTY="tty"```
+  - Restart Terminal
 
 **Step 5. Generate your Key** [Generate Key](https://help.github.com/articles/generating-a-new-gpg-key/)
+
 - Add GPG key to your GitHub Account
 
 **Step 6. Configure Git**
