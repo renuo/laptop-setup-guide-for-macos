@@ -1,5 +1,4 @@
-# Laptop Setup Guide for macOS
-![Alt-Text](Laptop-Setup.png)
+![Laptop Setup Guide for macOS](Laptop-Setup.png)
 ```
 echo "Hello World"
 console.log 'Hello, world!'
