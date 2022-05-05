@@ -1,4 +1,4 @@
-### First Boot
+# First Boot
 
 Now we're going to set up your freshly unboxed Macbook. Here in the list are some important settings to consider. **Read them first:**
 
@@ -13,7 +13,7 @@ All other things are optional and you can choose them by yourself
 
 Start the machine and follow the macOS Setup.
 
-### Further important settings: System Preferences
+## Further important settings: System Preferences
 
 Open the system preferences and configure the following options. Some options need a password. For this you need to click on the lock symbol:
 
