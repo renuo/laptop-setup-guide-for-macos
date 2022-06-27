@@ -4,8 +4,7 @@
 
 - ```brew install asdf```
 
-Put the following into your: .zshrc:
-
+Put the following into your: `.zshrc`:
 _(to do so use Visual Studio Code `open ~/.zshrc -a Visual\ Studio\ Code.app` or Vim. If the file does not exist use `touch ~/.zshrc`)_
 
 - ```. $(brew --prefix asdf)/libexec/asdf.sh```
