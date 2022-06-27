@@ -6,6 +6,8 @@
 
 Put the following into your: .zshrc:
 
+_(to do so use Visual Studio Code `open ~/.zshrc -a Visual\ Studio\ Code.app` or Vim)_
+
 - ```. $(brew --prefix asdf)/libexec/asdf.sh```
 
 Now you can install ruby and node:
