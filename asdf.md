@@ -23,7 +23,7 @@ To add a global ruby add:
 
 - ```asdf global ruby 3.0.2```
 
-To support .ruby-version add this to your ~/.asdfrc
+To support .ruby-version add this to your `~/.asdfrc`
 
 - ```legacy_version_file = yes```
 
