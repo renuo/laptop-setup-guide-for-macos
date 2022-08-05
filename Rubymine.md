@@ -7,9 +7,9 @@ Open a terminal and execute the following:
 - ``` brew update ```
 - ``` brew cask install java rubymine ```
 
-Add Alias to .zshrc
+Add Alias to `.zshrc`
 
-- ``` mine='open -a RubyMine' ```
+- ```alias mine='open -a RubyMine' ```
 
 So you can use
 
