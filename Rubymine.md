@@ -1,17 +1,15 @@
-# Rubymine
+# RubyMine / Toolbox App
 
-In this step we will install our main IDE (Rubymine).
+In this step we will install our main IDE (RubyMine).
 
-Open a terminal and execute the following:
+Download the [Toolbox App](https://www.jetbrains.com/toolbox-app/) and install then RubyMine.
+The Toolbox App gives you a list of all your projects.
 
-- ``` brew update ```
-- ``` brew cask install java rubymine ```
-
-Add Alias to `.zshrc`
+**Add Alias to `.zshrc`**
 
 - ```alias mine='open -a RubyMine' ```
 
-So you can use
+So you can use `mine .`
 
-- mine .Useful Rubymine Plugins:
-  - [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink/) links Files to Github so that you can open remotely on right-click.
+**Useful RubyMine Plugins:**
+- [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink/): links Files to Github so that you can open remotely on right-click.
