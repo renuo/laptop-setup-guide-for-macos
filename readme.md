@@ -1,4 +1,4 @@
-![Laptop Setup Guide for macOS](Laptop-Setup.png)
+![Laptop Setup Guide for macOS](img/Laptop-Setup.png)
 
 ```
 echo "Hello World"
