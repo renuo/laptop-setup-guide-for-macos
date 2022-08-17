@@ -1,15 +1,15 @@
-# Summary
+# summary
 
-- [Overview](ReadMe.md)]
+- [overview](readme.md)]
 
-# macOS Setup
+# macos setup
 
-- [First boot](First_boot.md)
-- [Software Updates & Programs](Software_Programs.md)
+- [first boot](first_boot.md)
+- [software updates & programs](software_programs.md)
 
-# Basic Tools Setup
+# basic tools setup
 
-- [Homebrew](Homebrew.md)
+- [homebrew](homebrew.md)
 - [zsh](zsh.md)
 - [git](git.md)
 - [git-flow](git_flow.md)
@@ -17,24 +17,24 @@
 - [yarn](yarn.md)
 - [vim](vim.md)
 - [postgresql](postgresql.md)
-- [GPG](GPG.md)
-- [Redis](Redis.md)
-- [Shared MIME Info](Shared_mime_info.md)
-- [MYSQL](Mysql.md)
-- [Setup SSH Key](Setup_ssh_key.md)
-- [Heroku CLI](heroku_cli.md)
-- [Renuo CLI](renuo_cli.md)
+- [gpg](gpg.md)
+- [redis](redis.md)
+- [shared mime info](shared_mime_info.md)
+- [mysql](mysql.md)
+- [setup ssh key](setup_ssh_key.md)
+- [heroku cli](heroku_cli.md)
+- [renuo cli](renuo_cli.md)
 
-# Nice to have
+# nice to have
 
-- [Rubymine](Rubymine.md)
-- [Signed commits](Signed_commits.md)
-- [Autojump](Autojump.md)
-- [Google Drive](Google_Drive.md)
-- [Sourcetree or Fork](Sourcetree_or_fork.md)
-- [Puma-dev or Hotel](Puma_or_hotel.md)
-- [Increase GitHub Quota](Increase_github_quota.md)
-- [Firefox, Opera etc.](Firefox.md)
-- [Keep you awake](Keep_you_awake.md)
-- [Rectangle](Rectangle.md)
-- [Alfred](Alfred.md)
+- [rubymine](rubymine.md)
+- [signed commits](signed_commits.md)
+- [autojump](autojump.md)
+- [google drive](google_drive.md)
+- [sourcetree or fork](sourcetree_or_fork.md)
+- [puma-dev or hotel](puma_or_hotel.md)
+- [increase github quota](increase_github_quota.md)
+- [firefox, opera etc.](firefox.md)
+- [keep you awake](keep_you_awake.md)
+- [rectangle](rectangle.md)
+- [alfred](alfred.md)

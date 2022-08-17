@@ -44,7 +44,7 @@ There are some requirements which need to be met first that this works. The foll
 
 If you are experienced you can choose your own setup, but we recommend that you follow our setup instructions.
 
-- [Homebrew](Homebrew.md)
+- [homebrew](homebrew.md)
 - [zsh](zsh.md)
 - [git](git.md)
 - [git-flow](git_flow.md)
@@ -52,13 +52,13 @@ If you are experienced you can choose your own setup, but we recommend that you 
 - [yarn](yarn.md)
 - [vim](vim.md)
 - [postgresql](postgresql.md)
-- [GPG](GPG.md)
-- [Redis](Redis.md)
-- [Shared MIME Info](Shared_mime_info.md)
-- [MYSQL](Mysql.md)
-- [Setup SSH Key](Setup_ssh_key.md)
-- [Heroku CLI](heroku_cli.md)
-- [Renuo CLI](renuo_cli.md)
+- [gpg](gpg.md)
+- [redis](redis.md)
+- [shared mime info](shared_mime_info.md)
+- [mysql](mysql.md)
+- [setup ssh key](setup_ssh_key.md)
+- [heroku cli](heroku_cli.md)
+- [renuo cli](renuo_cli.md)
 
 ## Finish Setup
 
