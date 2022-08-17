@@ -1,4 +1,5 @@
 ![Laptop Setup Guide for macOS](Laptop-Setup.png)
+
 ```
 echo "Hello World"
 console.log 'Hello, world!'

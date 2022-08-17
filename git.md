@@ -7,19 +7,23 @@ This is a distributed versioning control system widely used. It's our standard.
 You can configure nice shortcuts in your console with the antigen bundles git, git-extras, git-flow.
 
 ## git config
+
 Put the following into your: `.gitconfig`:
 _(to do so use Visual Studio Code `open ~/.gitconfig -a Visual\ Studio\ Code.app` or Vim. If the file does not exist use `touch ~/.gitconfig`)_
+
 ```bash
 [user]
-	name = <YOUR-FULL-NAME>
-	email = <YOUR-EMAIL>@renuo.ch
+ name = <YOUR-FULL-NAME>
+ email = <YOUR-EMAIL>@renuo.ch
 [core]
-	excludesfile = /Users/<YOUR-NAME>/.gitignore
+ excludesfile = /Users/<YOUR-NAME>/.gitignore
 ```
 
 ## git ignore
+
 Put the following into your: `.gitignore`:
 _(to do so use Visual Studio Code `open ~/.gitignore -a Visual\ Studio\ Code.app` or Vim. If the file does not exist use `touch ~/.gitignore`)_
+
 ```bash
 # Folder view configuration files
 .DS_Store
