@@ -17,6 +17,8 @@ _(to do so use Visual Studio Code `open ~/.gitconfig -a Visual\ Studio\ Code.app
  email = <YOUR-EMAIL>@renuo.ch
 [core]
  excludesfile = /Users/<YOUR-NAME>/.gitignore
+[pull] 
+ rebase = true
 ```
 
 ## git ignore
