@@ -27,8 +27,8 @@ You're now part of an "engineer driven" company and your laptop is the engine wh
 
 ## macOS Setup
 
-- [First boot](First_boot.md)
-- [Software Updates & Programs](Software_Programs.md)
+- [First boot](first_boot.md)
+- [Software Updates & Programs](software_programs.md)
 
 For Renuo specific further setup follow this private guide [Information about Renuo](https://docs.google.com/document/d/1Pr5DQzfWo-YPUVc-kXyCay-d11dKsx0vZUWdwkSfMkc/)
 
@@ -76,14 +76,14 @@ Open the website in Google Chrome and check if everything is working.
 
 Now you finished with the Setup, below are some further recommendations. Do the Mac Setup before you do any of the next steps (except you know exactly what you are looking for). Here now follows the section with stuff that is nice to have. Cherry-pick!
 
-- [Rubymine](Rubymine.md)
-- [Signed commits](Signed_commits.md)
-- [Autojump](Autojump.md)
-- [Google Drive](Google_Drive.md)
-- [Sourcetree or Fork](Sourcetree_or_fork.md)
-- [Puma-dev or Hotel](Puma_or_hotel.md)
-- [Increase GitHub Quota](Increase_github_quota.md)
-- [Firefox, Opera etc.](Firefox.md)
-- [Keep you awake](Keep_you_awake.md)
-- [Rectangle](Rectangle.md)
-- [Alfred](Alfred.md)
+- [Rubymine](rubymine.md)
+- [Signed commits](signed_commits.md)
+- [Autojump](autojump.md)
+- [Google Drive](google_drive.md)
+- [Sourcetree or Fork](sourcetree_or_fork.md)
+- [Puma-dev or Hotel](puma_or_hotel.md)
+- [Increase GitHub Quota](increase_github_quota.md)
+- [Firefox, Opera etc.](firefox.md)
+- [Keep you awake](keep_you_awake.md)
+- [Rectangle](rectangle.md)
+- [Alfred](alfred.md)
