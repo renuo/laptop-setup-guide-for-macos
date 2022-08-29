@@ -21,16 +21,16 @@ _(to do so use Visual Studio Code `open ~/.gitconfig -a Visual\ Studio\ Code.app
 
 ### pulling strategy
 
-> Pulling without specifying how to reconcile divergent branches is discouraged. You can squelch this message by running one of the following commands sometime before your next pull: 
+> Pulling without specifying how to reconcile divergent branches is discouraged. You can squelch this message by running one of the following commands sometime before your next pull:
 
 ```
-git config pull.rebase false     # merge (the default strategy) 
+git config pull.rebase false     # merge (the default strategy)
 ```
 ```
-git config pull.rebase true      # rebase 
+git config pull.rebase true      # rebase
 ```
 ```
-git config pull.ff only          # fast-forward only 
+git config pull.ff only          # fast-forward only
 ```
 
 This will be reflected in  `~/.gitconfig`.
