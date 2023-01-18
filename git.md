@@ -30,7 +30,7 @@ git config pull.rebase false     # merge (the default strategy)
 git config pull.rebase true      # rebase
 ```
 ```
-git config pull.ff only          # fast-forward only
+git config pull.ff only          # fast-forward only (the recommended strategy)
 ```
 
 This will be reflected in  `~/.gitconfig`.
