@@ -1,13 +1,13 @@
-# summary
+# Summary
 
 - [overview](readme.md)]
 
-# macos setup
+## MacOS setup
 
 - [first boot](first_boot.md)
 - [software updates & programs](software_programs.md)
 
-# basic tools setup
+## Basic tools setup
 
 - [homebrew](homebrew.md)
 - [zsh](zsh.md)
@@ -25,7 +25,7 @@
 - [heroku cli](heroku_cli.md)
 - [renuo cli](renuo_cli.md)
 
-# nice to have
+## Nice to have
 
 - [rubymine](rubymine.md)
 - [signed commits](signed_commits.md)
