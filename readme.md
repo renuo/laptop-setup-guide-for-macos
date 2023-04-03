@@ -86,4 +86,5 @@ Now you finished with the Setup, below are some further recommendations. Do the 
 - [Firefox, Opera etc.](firefox.md)
 - [Keep you awake](keep_you_awake.md)
 - [Rectangle](rectangle.md)
+- CleanShot X
 - [Alfred](alfred.md)
