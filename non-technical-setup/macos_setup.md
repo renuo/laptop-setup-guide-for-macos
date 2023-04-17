@@ -1,6 +1,6 @@
 # macOS Setup
 
-Now we're going to set up your freshly unboxed Macbook. Here in the list are some important settings to consider. 
+Now we're going to set up your freshly unboxed Macbook. Here in the list are some important settings to consider.
 
 **Read them first:**
 

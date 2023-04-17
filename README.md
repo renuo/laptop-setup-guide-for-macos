@@ -20,7 +20,7 @@ You're now part of an "engineer driven" company and your laptop is the engine wh
 
 ## Before you start
 
-<div style="background-color: #f2dede; border-color: #ebccd1; color: #a94442; padding: 15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px;">
+<div class="alert alert-danger">
   <strong>Important:</strong> Please read the following instructions carefully. If you don't follow them, you may run into problems.
 </div>
 

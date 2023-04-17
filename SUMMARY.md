@@ -1,4 +1,5 @@
 # Summary
+
 # Laptop Setup Guide for macOS
 
 - [Overview](readme.md)
