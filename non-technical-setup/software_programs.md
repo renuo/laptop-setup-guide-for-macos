@@ -64,7 +64,7 @@ If you don't have a Gravatar account yet, then create one here: [Gravatar](https
 
 ## Gifcoins.io
 
-Ask someone to add give you your first gifcoins 🥳
+Ask someone to give you your first gifcoins 🥳
 Then you get automatically added to the team.
 
 ## Redmine & Tracky
