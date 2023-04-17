@@ -7,7 +7,6 @@ The Toolbox App gives you a list of all your projects.
 Follow this [guide](https://www.jetbrains.com/help/ruby/working-with-the-ide-features-from-command-line.html#f9fe282c) to install the command line tools.
 Then you can use the command `mine .` to open the current folder in RubyMine.
 
-
 <img src="/img/toolbox_app_shellscript_location.png" style="width: 100%; max-width: 500px;">
 
 **If this fails**, you might want to change the permission of the `/usr/local/bin` folder.

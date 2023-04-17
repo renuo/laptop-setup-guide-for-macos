@@ -24,7 +24,6 @@ If you didn’t use the Renuo Apple ID to setup your MacBook go to [Apple ID](ht
 
 While the updates are installing, you can already do the next steps (**until you Chapter XCode**).
 
-
 ## Apple Developer
 
 Go to [Developer](https://developer.apple.com)
@@ -62,7 +61,6 @@ From now on, you should use 1Password to store all your passwords.
 
 Upload a picture of yourself and add your Renuo email addresses to your profile.
 If you don't have a Gravatar account yet, then create one here: [Gravatar](https://en.gravatar.com/)
-
 
 ## Gifcoins.io
 
