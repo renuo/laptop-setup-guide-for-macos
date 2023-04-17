@@ -16,12 +16,12 @@ Now you can install ruby and node:
 
 And then:
 
-- ```asdf install ruby 3.0.2```
-- ```asdf install nodejs 16.13.2```
+- ```asdf install ruby latest```
+- ```asdf install nodejs latest```
 
 To add a global ruby add:
 
-- ```asdf global ruby 3.0.2```
+- ```asdf global ruby latest```
 
 To support .ruby-version add this to your `~/.asdfrc`
 

@@ -1,4 +1,4 @@
-# zsh
+# ZSH
 
 This is an alternative shell to bash (Mac standard).
 It has some interesting features, a big community and its mechanisms are used in a wide range of scripts at Renuo.
@@ -13,7 +13,6 @@ Configure it as your login shell the following way:
 
 1. Go to System Preferences
 2. → Users & Groups
-3. → Click the lock
 4. → Right click to your user
 5. → Advanced Options
 6. → Change Login-Shell to "/opt/homebrew/bin/zsh" to use the Homebrew zsh. (the old native one would be: "/bin/zsh")
