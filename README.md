@@ -23,6 +23,8 @@ You're now part of an "engineer driven" company and your laptop is the engine wh
 - **Discuss changes:** Please extend or correct this guide if you think the information is missing, wrong or outdated. Discuss the changes you want to make here with at least one other person before you make them.
 - **Ask for help:** If you have any questions, please ask for help. We are happy to help you.
 
+You are now ready to start. Click on the "right arrow" on the right side of the screen to go to the next page.
+
 ## How to contribute
 
 Create a pull request on [GitHub](https://github.com/renuo/laptop-setup-guide-for-macos).
