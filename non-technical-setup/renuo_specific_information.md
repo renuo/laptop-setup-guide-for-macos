@@ -11,7 +11,7 @@ Most likely the only thing is missing is the **Emergency Contact Person (+relati
 
 ## Inventory List
 
-Please enter the laptop serial number into the [Inventory](https://docs.google.com/spreadsheets/u/0/d/1Cc-KOhiQG0gZQlPlcHkyDlZJ1kDIOBK_QqePQasX9OQ/) edit spreadsheet and check if the correct laptop is assigned to you!)
+Please enter the laptop serial number into the [Inventory](https://docs.google.com/spreadsheets/u/0/d/1Cc-KOhiQG0gZQlPlcHkyDlZJ1kDIOBK_QqePQasX9OQ/) edit spreadsheet and check if the correct laptop is assigned to you!
 
 See: Find the serial number of your Apple product: [Serial-Nr.](https://support.apple.com/en-us/HT204308)
 
