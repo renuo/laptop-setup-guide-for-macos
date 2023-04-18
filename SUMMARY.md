@@ -2,7 +2,7 @@
 
 # Laptop Setup Guide for macOS
 
-- [Overview](readme.md)
+- [Overview](README.md)
 
 - [Non-technical Setup](non-technical-setup/index.md)
   - [macOS Setup](non-technical-setup/macos_setup.md)
