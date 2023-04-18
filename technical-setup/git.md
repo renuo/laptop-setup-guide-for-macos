@@ -9,7 +9,6 @@ You can configure nice shortcuts in your console with the antigen bundles git, g
 ## git config
 
 Put the following into your: `.gitconfig`:
-_(to do so use Visual Studio Code `open ~/.gitconfig -a Visual\ Studio\ Code.app` or Vim. If the file does not exist use `touch ~/.gitconfig`)_
 
 ```bash
 [user]
@@ -38,7 +37,6 @@ This will be reflected in  `~/.gitconfig`.
 ## git ignore
 
 Put the following into your: `.gitignore`:
-_(to do so use Visual Studio Code `open ~/.gitignore -a Visual\ Studio\ Code.app` or Vim. If the file does not exist use `touch ~/.gitignore`)_
 
 ```bash
 # Folder view configuration files

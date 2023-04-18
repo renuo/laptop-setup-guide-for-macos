@@ -8,11 +8,21 @@ Although you are free to use your favorite Browser on a daily basis, we require 
 2. Login to Chrome with @renuo credentials
 3. Click "link data" (If you already installed plugins with your account, they should be synchronized now.) and then "Ok got it"
 
-## Verify AppleID
+
+## 1Password
+
+We use 1Password to store all our passwords. Download the latest 1Password from the website and login with your @renuo.ch account.
+
+From now on, you should use 1Password to store **all your passwords**.
+
+## Create a Renuo AppleID
 
 If you didn’t use the Renuo Apple ID to setup your MacBook go to [Apple ID](https://appleid.apple.com/) and create a new Apple ID with the Renuo Email.
+This Renuo AppleID is used to install Testflight apps and later to publish apps to the App Store.
 
-1. Go back to the iCloud configuration dialog and verify your email address by clicking "continue"
+**Verify your AppleID**
+
+1. Go back icloud.com and verify your email address by clicking "continue"
 2. Enter the verification code you just got per email (you find your emails under [Gmail](https://gmail.com))
 
 ## System Updates
@@ -22,14 +32,7 @@ If you didn’t use the Renuo Apple ID to setup your MacBook go to [Apple ID](ht
 3. Restart after updates have been installed
 4. Repeat step 1 through 3 until there are no more updates left
 
-While the updates are installing, you can already do the next steps (**until you Chapter XCode**).
-
-## Apple Developer
-
-Go to [Developer](https://developer.apple.com)
-
-1. Click on "Account", login with your AppleID
-2. Agree by checking boxes and submit
+While the updates are installing, you can already do the next steps.
 
 ## Github
 
@@ -50,12 +53,6 @@ Github is our main host for source code repositories, versioned with Git.
 2. **1Password:** Ask someone to add you to the Renuo Account. Then follow the instructions in the mail.
 
 Feel free to install any other extension that you like.
-
-## 1Password
-
-We use 1Password to store all our passwords. Download the latest 1Password from the website and login with your @renuo.ch account.
-
-From now on, you should use 1Password to store all your passwords.
 
 ## Gravatar
 
@@ -82,12 +79,3 @@ To start your session for the setup just input your ticket number or subscriptio
 - Track always with a ticket number and a meaningful description
 
 By the way, [Redmine Tracky is open source](https://github.com/renuo/redmine_tracky/). PRs are always welcome 😁.
-
-## XCode
-
-1. Download XCode from the App Store
-2. Open XCode and agree to license, then quit
-
-## Better macOS Terminal
-
-We recommend you to use [iTerm2](https://iterm2.com/iTerm2) - macOS Terminal Replacement but you can freely choose your desired terminal application.

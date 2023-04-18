@@ -7,6 +7,7 @@ Now you finished with the Setup, below are some further recommendations. Do the 
 - ⭐ [Rubymine / Toolbox](rubymine.md): A powerful IDE for Ruby and Rails development
 - ⭐ [Fork](https://git-fork.com/): A fast and friendly git client for Mac and Windows
 - ⭐ [Google Chrome Shortcuts](google_chrome_shortcuts.md): A list of useful Google Chrome shortcuts
+- [Raycast](raycast.md): A powerful alternative to Spotlight and Alfred
 - [Google Drive Desktop](https://www.google.com/drive/download/): Access your Google Drive files from your desktop
 - [CleanShot X](https://cleanshot.com): Powerful and lightweight screenshot software for Mac
 - [Autojump](autojump.md): A faster way to navigate your filesystem
@@ -17,5 +18,4 @@ Now you finished with the Setup, below are some further recommendations. Do the 
     - Opera
 - [KeepYouAwake](https://github.com/newmarcel/KeepingYouAwake): Prevent your Mac from going to sleep
 - [Rectangle](https://rectangleapp.com/): Move and resize windows in macOS using keyboard shortcuts or snap areas
-- [Alfred](alfred.md): A productivity application for macOS
-- [Raycast](https://raycast.com/): A powerful alternative to Spotlight and Alfred
+- [Alfred](https://www.alfredapp.com/): A productivity app for macOS
