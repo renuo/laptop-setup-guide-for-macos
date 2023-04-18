@@ -48,7 +48,6 @@ Github is our main host for source code repositories, versioned with Git.
 
 Now set your nickname to your fist name, all lowercase. E.g. Max Muster = max
 
-
 ## Google Chrome Extensions
 
 1. **GitHub PR-Counter:** There's a Chrome plugin which shows how many pull requests you have. You can follow the instructions of the Plugin to set it up.
