@@ -43,8 +43,11 @@ Github is our main host for source code repositories, versioned with Git.
 ## Slack
 
 1. Download Slack from the App Store
-2. Login with Google and your @renuo account
+2. Login with Google and your @renuo.ch account
 3. You should be able to join the Renuo slack now
+
+Now set your nickname to your fist name, all lowercase. E.g. Max Muster = max
+
 
 ## Google Chrome Extensions
 
