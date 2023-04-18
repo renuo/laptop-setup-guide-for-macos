@@ -20,7 +20,7 @@ If you didn’t use the Renuo Apple ID to setup your MacBook go to [Apple ID](ht
 1. Go to "Software Update" in the system preferences and install all available updates.
 2. Enable automatic updates for all apps and the system
 3. Restart after updates have been installed
-4. Repeat from Step 1 and 3 until there are no more updates left
+4. Repeat step 1 through 3 until there are no more updates left
 
 While the updates are installing, you can already do the next steps (**until you Chapter XCode**).
 
@@ -33,7 +33,7 @@ Go to [Developer](https://developer.apple.com)
 
 ## Github
 
-Github is our main source code repository.
+Github is our main host for source code repositories, versioned with Git.
 
 1. **If you don't already have an account**, please go there and create one: [Github](https://github.com)
 2. After having done so, ask someone to add you to the Renuo organization to access our private repositories.
@@ -41,13 +41,13 @@ Github is our main source code repository.
 ## Slack
 
 1. Download Slack from the App Store
-2. Login with Google and your @renuo.ch account
-3. You should be able to join the renuo slack now
+2. Login with Google and your @renuo account
+3. You should be able to join the Renuo slack now
 
 ## Google Chrome Extensions
 
 1. **GitHub PR-Counter:** There's a Chrome plugin which shows how many pull requests you have. You can follow the instructions of the Plugin to set it up.
-2. **1Password:** Ask someone to add you to the Renuo Account. Then follow the instructions in the mail
+2. **1Password:** Ask someone to add you to the Renuo Account. Then follow the instructions in the mail.
 
 Feel free to install any other extension that you like.
 
@@ -64,8 +64,8 @@ If you don't have a Gravatar account yet, then create one here: [Gravatar](https
 
 ## Gifcoins.io
 
-Ask someone to give you your first gifcoins 🥳
-Then you get automatically added to the team.
+Ask someone to give you your first Gifcoins 🥳
+Then you should automatically get added to the team.
 
 ## Redmine & Tracky
 
@@ -80,6 +80,8 @@ To start your session for the setup just input your ticket number or subscriptio
 - Stop tracker when you leave the office
 - Keep small tracked times. New Timer for new Task (later Customer wants to know what you did)
 - Track always with a ticket number and a meaningful description
+
+By the way, [Redmine Tracky is open source](https://github.com/renuo/redmine_tracky/). PRs are always welcome 😁.
 
 ## XCode
 

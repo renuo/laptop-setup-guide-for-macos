@@ -1,6 +1,6 @@
 # macOS Setup
 
-Now we're going to set up your freshly unboxed Macbook. Here in the list are some important settings to consider.
+Now we're going to set up your freshly unboxed Macbook. Below we list some important/useful settings, you should consider applying
 
 **Read them first:**
 
@@ -18,7 +18,7 @@ Start the machine and follow the macOS Setup.
 ## Further important settings: System Preferences
 
 Open the system preferences and configure the following options. Some options need a password.
-Each macOS version has a different system preferences. So some options may be missing or have a different name.
+Each macOS version has a different "System Preferences". Some options may be missing or have a different name.
 
 - **Security & Privacy**
   - **Password:** Require Password immediately after sleep or screen saver begins
@@ -26,7 +26,7 @@ Each macOS version has a different system preferences. So some options may be mi
   - **Firewall:** Turn on firewall.
 
 - **iCloud**
-  - **Find my:** Turn on Find my Mac. This will allow you to find your Mac if it’s lost or stolen.
+  - **Find My Mac:** Turn on Find my Mac. This will allow you to find your Mac if it’s lost or stolen.
   - Disable everything else because we're going to synchronize everything with Google in the next step.
 
 - **Internet Accounts**
