@@ -15,6 +15,10 @@ Please enter the laptop serial number into the [Inventory](https://docs.google.c
 
 See: Find the serial number of your Apple product: [Serial-Nr.](https://support.apple.com/en-us/HT204308)
 
+## Printer and Scanner
+
+Follow [this guide](https://drive.google.com/open?id=15e7_in70ZcyQB2KU1YseENeQhvj1J0cTm1s7JCFaEJY) to set up the office printer.
+
 ## Internal Configuration
 
-Follow the instructions in the [Renuo Internal Configuration](https://docs.google.com/document/d/1Pr5DQzfWo-YPUVc-kXyCay-d11dKsx0vZUWdwkSfMkc/) document.
+Follow the instructions in the [Renuo Internal Configuration](https://docs.google.com/document/d/1Pr5DQzfWo-YPUVc-kXyCay-d11dKsx0vZUWdwkSfMkc/edit#bookmark=id.n4t3fqjunctl) document.
