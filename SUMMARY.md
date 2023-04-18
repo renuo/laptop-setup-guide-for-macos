@@ -1,40 +1,39 @@
 # Summary
 
-- [overview](readme.md)]
+# Laptop Setup Guide for macOS
 
-## MacOS setup
+- [Overview](readme.md)
 
-- [first boot](first_boot.md)
-- [software updates & programs](software_programs.md)
+- [Non-technical Setup](non-technical-setup/index.md)
+  - [macOS Setup](non-technical-setup/macos_setup.md)
+  - [Software & Programs](non-technical-setup/software_programs.md)
+  - [Renuo Specific Information](non-technical-setup/renuo_specific_information.md)
+  - [Finish Setup](non-technical-setup/finish_setup.md)
 
-## Basic tools setup
+- [Technical Setup](technical-setup/index.md)
+  - [XCode](technical-setup/xcode.md)
+  - [iTerm2](technical-setup/iterm2.md)
+  - [Homebrew](technical-setup/homebrew.md)
+  - [Console Editor](technical-setup/vim.md)
+  - [ZSH](technical-setup/zsh.md)
+  - [Git](technical-setup/git.md)
+  - [Git Flow](technical-setup/git_flow.md)
+  - [asdf](technical-setup/asdf.md)
+  - [Yarn](technical-setup/yarn.md)
+  - [PostgreSQL](technical-setup/postgresql.md)
+  - [GPG](technical-setup/gpg.md)
+  - [Redis](technical-setup/redis.md)
+  - [Shared Mime Info](technical-setup/shared_mime_info.md)
+  - [MySQL](technical-setup/mysql.md)
+  - [Setup SSH Key](technical-setup/setup_ssh_key.md)
+  - [Heroku CLI](technical-setup/heroku_cli.md)
+  - [Renuo CLI](technical-setup/renuo_cli.md)
+  - [Verify Setup](technical-setup/verify_setup.md)
 
-- [homebrew](homebrew.md)
-- [zsh](zsh.md)
-- [git](git.md)
-- [git-flow](git_flow.md)
-- [asdf](asdf.md)
-- [yarn](yarn.md)
-- [vim](vim.md)
-- [postgresql](postgresql.md)
-- [gpg](gpg.md)
-- [redis](redis.md)
-- [shared mime info](shared_mime_info.md)
-- [mysql](mysql.md)
-- [setup ssh key](setup_ssh_key.md)
-- [heroku cli](heroku_cli.md)
-- [renuo cli](renuo_cli.md)
-
-## Nice to have
-
-- [rubymine](rubymine.md)
-- [signed commits](signed_commits.md)
-- [autojump](autojump.md)
-- [google drive](google_drive.md)
-- [sourcetree or fork](sourcetree_or_fork.md)
-- [puma-dev or hotel](puma_or_hotel.md)
-- [increase github quota](increase_github_quota.md)
-- [firefox, opera etc.](firefox.md)
-- [keep you awake](keep_you_awake.md)
-- [rectangle](rectangle.md)
-- [alfred](alfred.md)
+- [Nice to have](nice_to_have/index.md)
+  - [Rubymine](nice_to_have/rubymine.md)
+  - [Google Chrome Shortcuts](nice_to_have/google_chrome_shortcuts.md)
+  - [Raycast](nice_to_have/raycast.md)
+  - [Autojump](nice_to_have/autojump.md)
+  - [Increase GitHub Quota](nice_to_have/increase_github_quota.md)
+  - [Puma-dev or Hotel](nice_to_have/puma_or_hotel.md)

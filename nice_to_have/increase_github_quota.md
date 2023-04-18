@@ -7,4 +7,4 @@ If you have problems with the Github API, you can increase your quota. The follo
 3. Click generate
 4. Copy the generated key
 5. Open a terminal to export the key like that:
-6. echo 'export HOMEBREW_GITHUB_API_TOKEN="the_new_token"' >> ~/.zshrc
+6. ```echo 'export HOMEBREW_GITHUB_API_TOKEN="the_new_token"' >> ~/.zshrc```
