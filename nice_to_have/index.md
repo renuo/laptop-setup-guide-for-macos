@@ -16,6 +16,6 @@ Now you finished with the Setup, below are some further recommendations. Do the 
     - Firefox _is heavily used mainly in Germany. It's relevant for testing our web applications. We recommend checking your website in other browsers._
     - Opera
 - [KeepYouAwake](https://github.com/newmarcel/KeepingYouAwake): Prevent your Mac from going to sleep
-- [Regtangle](https://rectangleapp.com/): Move and resize windows in macOS using keyboard shortcuts or snap areas
+- [Rectangle](https://rectangleapp.com/): Move and resize windows in macOS using keyboard shortcuts or snap areas
 - [Alfred](alfred.md): A productivity application for macOS
 - [Raycast](https://raycast.com/): A powerful alternative to Spotlight and Alfred
