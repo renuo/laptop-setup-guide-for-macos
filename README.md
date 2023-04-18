@@ -22,3 +22,13 @@ You're now part of an "engineer driven" company and your laptop is the engine wh
 
 - **Discuss changes:** Please extend or correct this guide if you think the information is missing, wrong or outdated. Discuss the changes you want to make here with at least one other person before you make them.
 - **Ask for help:** If you have any questions, please ask for help. We are happy to help you.
+
+## How to contribute
+
+Create a pull request on [GitHub](https://github.com/renuo/laptop-setup-guide-for-macos).
+
+Do **not** add new tools to the non-technical/technical setup except if they are really necessary.
+We want to keep the setup as simple as possible and avoid to overwhelm the new Renuoaner.
+Furthermore, the setup should be doable in a short amount of time.
+
+If you want to add a new tool, add them in the [Nice to have](nice-to-have/index.md) section.

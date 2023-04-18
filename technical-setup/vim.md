@@ -6,7 +6,6 @@ This is a highly configurable console editor which can be expected to be present
 
 - ```brew install vim```
 
-
 In the following sections we need to create and edit a lot of files. We will use Vim for this. If you are not familiar with Vim, you can use Visual Studio Code for example.
 
 ## Visual Studio Code (Recommended for Interns)

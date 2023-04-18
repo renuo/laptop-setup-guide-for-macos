@@ -8,7 +8,6 @@ Although you are free to use your favorite Browser on a daily basis, we require 
 2. Login to Chrome with @renuo credentials
 3. Click "link data" (If you already installed plugins with your account, they should be synchronized now.) and then "Ok got it"
 
-
 ## 1Password
 
 We use 1Password to store all our passwords. Download the latest 1Password from the website and login with your @renuo.ch account.
