@@ -31,6 +31,6 @@ Do **not** add new tools to the non-technical/technical setup except if they are
 We want to keep the setup as simple as possible and avoid to overwhelm the new Renuoaner.
 Furthermore, the setup should be doable in a short amount of time.
 
-If you want to add a new tool, add them in the [Nice to have](nice-to-have/index.md) section.
+If you want to add a new tool, add them in the [Nice to have](nice_to_have/index.md) section.
 
 **This guide is public.** Please do not add any information that is not public.
