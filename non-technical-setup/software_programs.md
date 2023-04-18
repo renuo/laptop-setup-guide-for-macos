@@ -5,7 +5,7 @@
 Although you are free to use your favorite Browser on a daily basis, we require Chrome to be installed on all our laptops:
 
 1. Download Google Chrome installer: [Google Chrome](https://google.com/chrome) (important: english version of chrome)
-2. Login to Chrome with @renuo credentials
+2. Login to Chrome with @renuo.ch credentials
 3. Click "link data" (If you already installed plugins with your account, they should be synchronized now.) and then "Ok got it"
 
 ## 1Password
