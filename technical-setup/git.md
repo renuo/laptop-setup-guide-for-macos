@@ -8,7 +8,7 @@ You can configure nice shortcuts in your console with the antigen bundles git, g
 
 ## git config
 
-Put the following into your: `.gitconfig`:
+Put the following into your: `~/.gitconfig`:
 
 ```bash
 [user]
@@ -38,7 +38,7 @@ This will be reflected in  `~/.gitconfig`.
 
 ## git ignore
 
-Put the following into your: `.gitignore`:
+Put the following into your: `~/.gitignore`:
 
 ```bash
 # Folder view configuration files

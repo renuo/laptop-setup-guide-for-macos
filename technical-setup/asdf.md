@@ -4,7 +4,7 @@
 
 - ```brew install asdf```
 
-Put the following into your: `.zshrc`:
+Put the following into your: `~/.zshrc`:
 
 - ```. $(brew --prefix asdf)/libexec/asdf.sh```
 
