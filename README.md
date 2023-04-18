@@ -32,3 +32,5 @@ We want to keep the setup as simple as possible and avoid to overwhelm the new R
 Furthermore, the setup should be doable in a short amount of time.
 
 If you want to add a new tool, add them in the [Nice to have](nice-to-have/index.md) section.
+
+**This guide is public.** Please do not add any information that is not public.
