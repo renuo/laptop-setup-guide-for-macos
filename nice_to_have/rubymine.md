@@ -9,8 +9,7 @@ Then you can use the command `mine .` to open the current folder in RubyMine.
 
 <img src="/img/toolbox_app_shellscript_location.png" style="width: 100%; max-width: 500px;">
 
-**If this fails**, you might want to change the permission of the `/usr/local/bin` folder.
-
+**If this fails**, you might want to change the permission of the `/usr/local/bin` folder, using following command:
 ```bash
 sudo chown -R $(whoami) /usr/local/bin
 ```
