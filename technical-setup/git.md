@@ -25,9 +25,11 @@ Put the following into your: `.gitconfig`:
 ```
 git config --global pull.rebase false     # merge (the default strategy)
 ```
+
 ```
 git config --global pull.rebase true      # rebase
 ```
+
 ```
 git config --global pull.ff only          # fast-forward only (the recommended strategy)
 ```

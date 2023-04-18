@@ -14,8 +14,8 @@ Now you finished with the Setup, below are some further recommendations. Do the 
 - [Puma-dev or Hotel](puma_or_hotel.md)
 - [Increase GitHub Quota](increase_github_quota.md)
 - Additional Browser for Development
-    - Firefox _is heavily used mainly in Germany. It's relevant for testing our web applications. We recommend checking your website in other browsers._
-    - Opera
+  - Firefox _is heavily used mainly in Germany. It's relevant for testing our web applications. We recommend checking your website in other browsers._
+  - Opera
 - [KeepYouAwake](https://github.com/newmarcel/KeepingYouAwake): Prevent your Mac from going to sleep
 - [Rectangle](https://rectangleapp.com/): Move and resize windows in macOS using keyboard shortcuts or snap areas
 - [Alfred](https://www.alfredapp.com/): A productivity app for macOS
