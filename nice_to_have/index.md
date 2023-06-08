@@ -7,6 +7,7 @@ Now you finished with the Setup, below are some further recommendations. Do the 
 - ⭐ [Rubymine / Toolbox](rubymine.md): A powerful IDE for Ruby and Rails development
 - ⭐ [Fork](https://git-fork.com/): A fast and friendly git client for Mac and Windows
 - ⭐ [Google Chrome Shortcuts](google_chrome_shortcuts.md): A list of useful Google Chrome shortcuts
+- ⭐ [Refined GitHub](https://github.com/refined-github/refined-github): Browser extension that simplifies the GitHub interface and adds useful features
 - [Raycast](raycast.md): A powerful alternative to Spotlight and Alfred
 - [Google Drive Desktop](https://www.google.com/drive/download/): Access your Google Drive files from your desktop
 - [CleanShot X](https://cleanshot.com): Powerful and lightweight screenshot software for Mac
