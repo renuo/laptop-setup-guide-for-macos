@@ -8,6 +8,8 @@ Now you finished with the Setup, below are some further recommendations. Do the 
 - ⭐ [Fork](https://git-fork.com/): A fast and friendly git client for Mac and Windows
 - ⭐ [Google Chrome Shortcuts](google_chrome_shortcuts.md): A list of useful Google Chrome shortcuts
 - ⭐ [Refined GitHub](https://github.com/refined-github/refined-github): Browser extension that simplifies the GitHub interface and adds useful features
+- ⭐ [GitHub CLI](https://cli.github.com/): `brew install gh` - GitHub's official command line tool
+- ⭐ [Spark](https://sparkmailapp.com/): A powerful and intelligent email client for macOS. Use this to read and organize your emails. Send emails from Gmail, since we have a custom signature.
 - [Raycast](raycast.md): A powerful alternative to Spotlight and Alfred
 - [Google Drive Desktop](https://www.google.com/drive/download/): Access your Google Drive files from your desktop
 - [CleanShot X](https://cleanshot.com): Powerful and lightweight screenshot software for Mac
