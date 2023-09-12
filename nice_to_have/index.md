@@ -22,3 +22,4 @@ Now you finished with the Setup, below are some further recommendations. Do the 
 - [KeepYouAwake](https://github.com/newmarcel/KeepingYouAwake): Prevent your Mac from going to sleep
 - [Rectangle](https://rectangleapp.com/): Move and resize windows in macOS using keyboard shortcuts or snap areas
 - [Alfred](https://www.alfredapp.com/): A productivity app for macOS
+- [Bat](https://formulae.brew.sh/formula/bat): A clone of cat(1) with syntax highliting and Git integration
