@@ -7,7 +7,6 @@
 - [Non-technical Setup](non-technical-setup/index.md)
   - [macOS Setup](non-technical-setup/macos_setup.md)
   - [Software & Programs](non-technical-setup/software_programs.md)
-  - [Renuo Specific Information](non-technical-setup/renuo_specific_information.md)
   - [Finish Setup](non-technical-setup/finish_setup.md)
 
 - [Technical Setup](technical-setup/index.md)
