@@ -14,6 +14,7 @@ Now you finished with the Setup, below are some further recommendations. Do the 
 - [Google Drive Desktop](https://www.google.com/drive/download/): Access your Google Drive files from your desktop
 - [CleanShot X](https://cleanshot.com): Powerful and lightweight screenshot software for Mac
 - [Autojump](autojump.md): A faster way to navigate your filesystem
+- [fzf](https://github.com/junegunn/fzf): A fuzzy finder for files, command history, processes, git commits etc.
 - [Puma-dev or Hotel](puma_or_hotel.md)
 - [Increase GitHub Quota](increase_github_quota.md)
 - Additional Browser for Development
