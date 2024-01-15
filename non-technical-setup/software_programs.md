@@ -39,6 +39,9 @@ Github is our main host for source code repositories, versioned with Git.
 
 1. **If you don't already have an account**, please go there and create one: [Github](https://github.com)
 2. After having done so, ask someone to add you to the Renuo organization to access our private repositories.
+3. Enable two-factor authentication (2FA) for your account.
+4. Add the renuo email address to your Github account (as a secondary email address).
+Add a "Custom routing" rule to forward all emails from the Renuo organization to your @renuo.ch email address (Settings -> Notifications -> Default notifications email -> Custom routing).
 
 ## Slack
 
