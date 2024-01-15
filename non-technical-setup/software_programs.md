@@ -43,7 +43,6 @@ Github is our main host for source code repositories, versioned with Git.
 4. Add the renuo email address to your Github account (as a secondary email address). 
 Add a "Custom routing" rule to forward all emails from the Renuo organization to your @renuo.ch email address (Settings -> Notifications -> Default notifications email -> Custom routing).
 
-
 ## Slack
 
 1. Download Slack from the App Store
