@@ -1,7 +1,7 @@
 # Homebrew
 
 <div class="alert alert-danger">
-    <strong>Warning:</strong> 
+    <strong>Warning:</strong>
     Make sure you have installed Xcode and agreed to the license before installing Homebrew ― otherwise it will fail.
 </div>
 
