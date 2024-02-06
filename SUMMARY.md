@@ -10,7 +10,7 @@
   - [Finish Setup](non-technical-setup/finish_setup.md)
 
 - [Technical Setup](technical-setup/index.md)
-  - [XCode](technical-setup/xcode.md)
+  - [Xcode](technical-setup/xcode.md)
   - [iTerm2](technical-setup/iterm2.md)
   - [Homebrew](technical-setup/homebrew.md)
   - [Console Editor](technical-setup/vim.md)
