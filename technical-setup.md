@@ -27,7 +27,6 @@ Please don’t skip parts of this guide and don’t start with the next part or 
 - **Discuss changes:** Please extend or correct this guide if you think the information is missing, wrong or outdated. Discuss the changes you want to make here with at least one other person before you make them.
 - **Ask for help:** If you have any questions, please ask for help. We are happy to help you.
 
-
 ## Apple Developer and Xcode
 
 ### Apple Developer
@@ -49,11 +48,9 @@ Xcode is necessary for all the following steps.
 
 While Xcode is installing, you can take a break and get a coffee ☕️.
 
-
 ## iTerm2 - Better macOS Terminal
 
 We recommend you to use [iTerm2](https://iterm2.com/iTerm2) - macOS Terminal Replacement but you can freely choose your desired terminal application.
-
 
 ## Homebrew
 
@@ -65,7 +62,6 @@ Homebrew is a very convenient package manager for Mac. Go to [Brew](https://brew
 
 - ``` brew update ```
 - ``` brew upgrade ```
-
 
 ## Console Editor
 
@@ -106,7 +102,6 @@ code .gitconfig
 vim .gitconfig
 ```
 
-
 ## ZSH
 
 This is an alternative shell to bash (Mac standard).
@@ -137,7 +132,6 @@ For zsh there are several plugin systems. One of them is antigen. It's very flex
 - ```antigen use oh-my-zsh```
 - ```antigen theme agnoster```
 - ```antigen apply```
-
 
 ## git
 
@@ -197,20 +191,17 @@ Thumbs.db
 .Trashes
 ```
 
-
 ## Git Flow
 
 [Git Flow](https://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/) is a branching convention we use at Renuo. There is a tool which makes it more convenient to use:
 
 - `brew install git-flow`
 
-
 ## GPG
 
 This is a tool for public key crypto. There is also a tool called GPGSuite which has a GUI. You can use gpg to create your ssh key.
 
 - ```brew install gpg```
-
 
 ## Setup SSH Key
 
@@ -270,13 +261,11 @@ To support .ruby-version add this to your `~/.asdfrc`
 
 See also [Guide](https://asdf-vm.com/guide/getting-started.html#using-existing-tool-version-files)
 
-
 ## yarn
 
 Yarn is a package manager for node packages.
 
 - ```brew install yarn --ignore-dependencies```
-
 
 ## postgresql
 
@@ -284,7 +273,6 @@ Postgres is the main database we use for our projects. Install it and configure 
 
 - ```brew install postgresql```
 - ```brew services start postgresql```
-
 
 ## Redis
 
@@ -296,13 +284,11 @@ After the installation run through, you will get a command to start redis:
 
 - ``` brew services restart redis ```
 
-
 ## Heroku CLI
 
 To add the Heroku CLI, please use the following command.
 
 - ```brew tap heroku/brew && brew install heroku```
-
 
 ## Renuo CLI
 
@@ -311,7 +297,6 @@ To add the Renuo CLI, please use the following command.
 - `cd ~`
 - `asdf global ruby latest`
 - `gem install renuo-cli`
-
 
 ## Important Homebrew Apps
 
@@ -330,7 +315,6 @@ See [Guide](https://github.com/mimemagicrb/mimemagic)
 ### PDFtk
 
 - ``` brew install pdftk-java ```
-
 
 ## Congratulations 🥳
 
