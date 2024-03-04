@@ -7,7 +7,6 @@ outline: deep
 This is the part of the setup guide where you will install the minimum software and programs to get started at Renuo.
 If you are experienced you can choose your own setup, but we recommend that you follow our setup instructions.
 
-
 ## macOS Setup
 
 Now we're going to set up your freshly unboxed Macbook. Below we list some important/useful settings, you should consider applying
@@ -48,7 +47,6 @@ _More infos about how to increase your mac security can be found here:_
 - Set up your Mac to be secure:
 [Apple Support](https://support.apple.com/guide/mac-help/set-up-your-mac-to-be-secure-flvlt003/mac)
 - For even much more information, visit this guide [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
-
 
 ## Software Updates & Programs
 
@@ -136,12 +134,9 @@ To start your session for the setup just input your ticket number or subscriptio
 
 By the way, [Redmine Tracky is open source](https://github.com/renuo/redmine_tracky/). PRs are always welcome 😁.
 
-
 ## Congratulations 🥳
 
 You are now ready to start working with the Renuo stack. You can now continue with the technical setup.
 
 If you are not going to do the technical setup, please have a look at the [Nice to have](/nice_to_have/index.md) section.
 There might be something interesting for you.
-
-
