@@ -10,7 +10,9 @@ export default defineConfig({
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com' }],
     ['link', { href: 'https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap', rel: 'stylesheet' }],
-    ['link', { rel: 'icon', href: 'https://www.renuo.ch/favicon.ico' }]
+    ['link', { rel: 'icon', href: 'https://www.renuo.ch/favicon.ico' }],
+    ['meta', { property: 'og:image', content: 'https://mugshotbot.com/m/dL2dnxqB' }],
+    ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
   ],
 
   sitemap: {
