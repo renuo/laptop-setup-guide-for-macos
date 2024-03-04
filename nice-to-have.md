@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # Nice to have
 
 Now you finished with the Setup, below are some further recommendations. Do the Mac Setup before you do any of the next steps (except you know exactly what you are looking for). Here now follows the section with stuff that is nice to have. Cherry-pick!

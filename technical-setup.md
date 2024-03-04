@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # Basic Tools Setup
 
 Now follows the part where it gets more technical. There's a convention at Renuo for the directory structure of projects. In every project you'll find the following files:

@@ -41,6 +41,9 @@ export default defineConfig({
     editLink: {
       pattern: 'https://github.com/renuo/laptop-setup-guide-for-macos/edit/main/:path'
     },
+    search: {
+      provider: 'local'
+    },
 
     sidebar: [
       {

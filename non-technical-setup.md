@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # Non-technical Setup
 
 This is the part of the setup guide where you will install the minimum software and programs to get started at Renuo.
