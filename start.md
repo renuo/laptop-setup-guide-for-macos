@@ -1,4 +1,4 @@
-![Laptop Setup Guide for macOS](img/Laptop-Setup.png)
+# Renuo Laptop Setup Guide for macOS
 
 ```
 echo "Hello World"

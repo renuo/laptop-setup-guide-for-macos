@@ -1,2 +1,2 @@
-book
-Brewfile.lock.json
+.vitepress/cache
+node_modules

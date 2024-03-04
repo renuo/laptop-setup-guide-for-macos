@@ -1,9 +1,0 @@
-[book]
-authors = ["devs@Renuo"]
-language = "en"
-multilingual = false
-src = ""
-title = "Laptop Setup Guide for macOS"
-
-[output.html]
-additional-css = ["custom.css"]
