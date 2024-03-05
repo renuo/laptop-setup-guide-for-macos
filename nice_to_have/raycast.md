@@ -8,3 +8,4 @@ Install the recommended extensions:
   - Go to settings and `gh` as an alias for `search repositories`. Now you can open Raycast and type `gh <search term>` to search for a repository.
 - List Repos (Quickly open your local git repositories)
 - Brew (List and manage your Homebrew packages)
+- Emoji Picker (Quickly insert emojis into your text)

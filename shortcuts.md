@@ -24,7 +24,15 @@ Here are some useful macOS shortcuts to help you work more efficiently.
 - **⌘ + ⌃ + F**: Enter or exit Full Screen mode in compatible apps.
 - **⌥ + Brightness/Volume keys**: Open Display preferences or Sound preferences directly.
 - **⌘ + ⇧ + U**: Open the Utilities folder within Finder.
-- **⌃ + ⌘ + Space (while in a text field)**: Show the emoji & symbols picker.
+- **⌃ + ⌘ + Space (while in a text field)**: Show the emoji & symbols picker. **This can also be replaced with [Raycast](nice_to_have/raycast.md)**.
+
+## 1Password
+
+- **⌘ + ⇧ + Space**: Open 1Password mini. This is a global shortcut that works in any app.
+
+## Slack
+
+- **⌘ + K**: Open the Quick Switcher to jump to any conversation or channel (even the one you are not in).
 
 ## Google Chrome
 
