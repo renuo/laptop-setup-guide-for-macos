@@ -43,8 +43,8 @@
  *   in custom container, badges, etc.
  * -------------------------------------------------------------------------- */
 
- 
- :root {
+
+:root {
   --vp-font-family-base: 'Montserrat', sans-serif;
 
   --vp-c-default-1: var(--vp-c-gray-1);
@@ -56,7 +56,7 @@
   --vp-c-brand-2: #28d79d;
   --vp-c-brand-3: #1d9f74;
   --vp-c-brand-soft: #28d79d;
-  
+
   --vp-c-tip-1: var(--vp-c-brand-1);
   --vp-c-tip-2: var(--vp-c-brand-2);
   --vp-c-tip-3: var(--vp-c-brand-3);
@@ -71,6 +71,10 @@
   --vp-c-danger-2: var(--vp-c-red-2);
   --vp-c-danger-3: var(--vp-c-red-3);
   --vp-c-danger-soft: var(--vp-c-red-soft);
+}
+
+.dark .VPImage.logo {
+  filter: invert(1);
 }
 
 /**
@@ -95,11 +99,9 @@
 
 :root {
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    #1d9f74 30%,
-    #28d79d
-  );
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg,
+      #1d9f74 30%,
+      #28d79d);
 }
 
 @media (min-width: 640px) {
@@ -132,4 +134,3 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
-

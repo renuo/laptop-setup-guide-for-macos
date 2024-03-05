@@ -23,6 +23,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/start' },
+      { text: 'Shortcuts', link: '/shortcuts' },
       { text: 'About Renuo', link: 'https://www.renuo.ch' }
     ],
 
@@ -45,6 +46,8 @@ export default defineConfig({
       provider: 'local'
     },
 
+    logo: '/renuo.svg',
+
     sidebar: [
       {
         text: 'Renuo Laptop Setup Guide',
@@ -52,9 +55,23 @@ export default defineConfig({
         items: [
           { text: 'Non-Technical Setup', link: '/non-technical-setup' },
           { text: 'Technical Setup', link: '/technical-setup' },
-          { text: 'Nice to have', link: '/nice-to-have' }
+          { text: 'Nice to have', link: '/nice-to-have' },
+        ],
+      },
+      { text: 'Shortcuts', link: '/shortcuts' },
+      {
+        text: 'Other Guides by Renuo',
+        items: [
+          {
+            text: 'SEO Checklist',
+            link: 'https://open-source.renuo.ch/seo-checklist/'
+          },
+          {
+            text: 'Applications Setup Guide',
+            link: 'https://open-source.renuo.ch/applications-setup-guide/'
+          }
         ]
-      }
+      },
     ],
   }
 })
