@@ -34,7 +34,7 @@ Like someone at Renuo is not able to work without it.
 We want to keep the setup as simple as possible and avoid to overwhelm the new Renuoaner.
 Furthermore, the setup should be doable in a short amount of time.
 
-- If you want to add a new tool, add them in the [Nice to have](nice_to_have.md) section.
+- If you want to add a new tool, add them in the [Nice to have](nice-to-have.md) section.
 - If you want to add a shortcut or a tip, add them in the [Shortcuts](shortcuts.md) section.
 
 
