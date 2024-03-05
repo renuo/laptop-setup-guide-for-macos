@@ -14,6 +14,7 @@ export default defineConfig({
     ['meta', { property: 'og:image', content: 'https://mugshotbot.com/m/dL2dnxqB' }],
     ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
   ],
+  cleanUrls: true,
 
   sitemap: {
     hostname: 'https://laptop-setup-guide.renuo.ch'
