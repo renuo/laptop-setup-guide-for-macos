@@ -4,6 +4,7 @@ Here are some useful macOS shortcuts to help you work more efficiently.
 
 ## General
 
+- **⌘ + ⇧ + .**: Toggle hidden files in Finder. (Especially useful to debug or edit hidden files like `.gitignore`.)
 - **⌥ + clicking items in the menu bar**: Show hidden settings.
 - **⌥ + clicking the Notification Center icon**: Turn on Do Not Disturb mode quickly.
 - **⌘ + ⌥ + D**: Hide or show the Dock.
@@ -16,7 +17,6 @@ Here are some useful macOS shortcuts to help you work more efficiently.
 - **⌘ + ⌃ + Space**: Open the Character Viewer to insert emojis, symbols, and other special characters.
 - **⌘ + ⇧ + /**: Open the Help menu in any application and immediately type to search.
 - **⌘ + ⌥ + Esc**: Force quit an unresponsive application.
-- **⌘ + ⇧ + .**: Toggle hidden files in Finder.
 - **⌘ + ⌥ + ⇧ + V**: Paste and match the style of the destination text (useful in word processors or email clients).
 - **⌘ + ⇧ + ⌥ + N**: Create a new folder with selected items in the Finder.
 - **⌘ + 1 / 2 / 3 / 4**: Change Finder views (Icon, List, Column, and Gallery View respectively).
