@@ -30,9 +30,14 @@ You are now ready to start. Click on the "right arrow" on the right side of the 
 Create a pull request on [GitHub](https://github.com/renuo/laptop-setup-guide-for-macos).
 
 Do **not** add new tools to the non-technical/technical setup except if they are really necessary.
+Like someone at Renuo is not able to work without it.
 We want to keep the setup as simple as possible and avoid to overwhelm the new Renuoaner.
 Furthermore, the setup should be doable in a short amount of time.
 
-If you want to add a new tool, add them in the [Nice to have](nice_to_have/index.md) section.
+- If you want to add a new tool, add them in the [Nice to have](nice_to_have.md) section.
+- If you want to add a shortcut or a tip, add them in the [Shortcuts](shortcuts.md) section.
 
-**This guide is public.** Please do not add any information that is not public.
+
+::: warning This guide is public
+Please do not add any information that is not public.
+:::
