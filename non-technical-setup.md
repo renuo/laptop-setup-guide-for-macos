@@ -56,7 +56,9 @@ Although you are free to use your favorite Browser on a daily basis, we require 
 
 ### 1Password
 
-We use 1Password to store all our passwords. Download the latest 1Password from the website and login with your @renuo.ch account.
+We use 1Password to store all our passwords. Download the **[latest 1Password from the website](https://1password.com/de/downloads/)** and login with your @renuo.ch account.
+
+
 
 From now on, you should use 1Password to store **all your passwords**.
 
