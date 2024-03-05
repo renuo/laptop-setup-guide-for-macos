@@ -14,6 +14,8 @@ If you are experienced you can choose your own setup, but we recommend that you 
 
 ::: danger Important
 Please read the following instructions carefully. If you don't follow them, you may run into problems.
+
+You should also have installed all the software from the previous steps ["Non-technical Setup"](non-technical-setup.md). If you haven't, please do so now.
 :::
 
 - **Sudo:** Coming from the Linux world, you're maybe used to the sudo command. On a Mac, you should seldom be required to use sudo.
