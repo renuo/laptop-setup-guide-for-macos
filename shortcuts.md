@@ -4,7 +4,7 @@ Here are some useful macOS shortcuts to help you work more efficiently.
 
 ## General
 
-- **⌘ + ⇧ + .**: Toggle hidden files in Finder. (Especially useful to debug or edit hidden files like `.gitignore`.)
+- **⌘ + ⇧ + .**: Toggle hidden files in Finder. Especially useful to debug or edit hidden files like `.gitignore`.
 - **⌥ + clicking items in the menu bar**: Show hidden settings.
 - **⌥ + clicking the Notification Center icon**: Turn on Do Not Disturb mode quickly.
 - **⌘ + ⌥ + D**: Hide or show the Dock.
