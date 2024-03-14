@@ -56,3 +56,26 @@ Here are some useful macOS shortcuts to help you work more efficiently.
 - **⌘ + ⇧ + R**: Reload your current page, ignoring cached content. Useful for developers or when updating content doesn't seem to appear.
 - **⌘ + P**: Print the current page. For when you need a physical copy of a webpage.
 - **⌘ + F**: Open the find bar to search for text within the current page. Helps locate specific information on a webpage quickly.
+
+## VIM
+
+- **:wq**: Save and close editor.
+- **:56**: Jump to line 56
+- **fa**: Jump forward to letter 'a' on same line
+- **⌃ + D**: Jump down half a page
+- **^ + U**: Jump up half a page
+- **vit**: Select inside tag
+- **vat**: Select around tag
+- **cit**: Change inside tag
+- **dat**: Delte around tag
+
+**Find and Replace**
+
+- **/foo**: Search for Foo
+- **n**: Next occurence
+- **N**: Previous occurence
+
+[surround.vim](https://github.com/tpope/vim-surround)
+
+- **cs"'**: Change " to '
+- **ds"**: Remove " around selection
