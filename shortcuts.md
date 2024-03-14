@@ -69,11 +69,13 @@ Here are some useful macOS shortcuts to help you work more efficiently.
 - **cit**: Change inside tag
 - **dat**: Delte around tag
 
-- **Find and Replace**
+**Find and Replace**
+
 - **/foo**: Search for Foo
 - **n**: Next occurence
 - **N**: Previous occurence
 
-- [surround.vim](https://github.com/tpope/vim-surround)
+[surround.vim](https://github.com/tpope/vim-surround)
+
 - **cs"'**: Change " to '
 - **ds"**: Remove " around selection
