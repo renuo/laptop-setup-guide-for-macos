@@ -14,6 +14,8 @@ Now you finished with the Setup, below are some further recommendations. Do the 
 - ⭐ [GitHub Copilot](https://copilot.github.com/): An AI pair programmer that helps you write code faster.
 - [SetApp](https://setapp.com/): A subscription service for Mac apps, including many of the apps listed here
 - [Raycast](nice_to_have/raycast.md): A powerful alternative to Spotlight and Alfred. Raycast includes also a clipboard history.
+- [Notion](https://www.notion.so/): A powerful note-taking app that can be used for documentation, project management, and more.
+- [TickTick](https://ticktick.com/): A powerful todo List/task manager that can be used for personal and professional tasks.
 - [Google Drive Desktop](https://www.google.com/drive/download/): Access your Google Drive files from your desktop
 - [CleanShot X](https://cleanshot.com): Powerful and lightweight screenshot software for Mac
 - [Autojump](nice_to_have/autojump.md): A faster way to navigate your filesystem
