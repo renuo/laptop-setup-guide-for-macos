@@ -71,6 +71,8 @@ This is a highly configurable console editor which can be expected to be present
 
 In the following sections we need to create and edit a lot of files. We will use Vim for this. If you are not familiar with Vim, you can use Visual Studio Code for example.
 
+Checkout [VIM Shortcuts](/shortcuts.md#vim) for a quick introduction.
+
 ### Visual Studio Code (Recommended for Interns)
 
 Download and install [Visual Studio Code](https://code.visualstudio.com/).
