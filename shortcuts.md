@@ -79,3 +79,14 @@ Here are some useful macOS shortcuts to help you work more efficiently.
 
 - **cs"'**: Change " to '
 - **ds"**: Remove " around selection
+
+### Lazygit
+
+- **p**: Pull from repository
+- **P**: Push to repository
+- **a**: Stage 'all' files in the working directory
+- **c**: Commit with message
+- **?**: Show help popup
+- **^ + r**: Jump to recent repository
+- **+**: Next screen mode
+- **Tab**: Focus next window
