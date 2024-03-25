@@ -220,17 +220,6 @@ See also [1Password SSH Agent](https://blog.1password.com/1password-ssh-agent/)
 Setup signing your commits with 1Password.
 See also [Git Commit Signing](https://blog.1password.com/git-commit-signing/)
 
-**Add your public key to GitHub**
-
-Once done, make a PR with the .pub file to [Renuo public keys](https://github.com/renuo/ssh-public.renuo.ch).
-_The public key can be copied from 1Password_
-
-::: info Tip
-Clone the <a href="https://github.com/renuo/ssh-public.renuo.ch">ssh-public.renuo.ch</a> repository and create your first commit within the Renuo organization.
-
-This will ensure that you have the correct permissions to push and correctly set up your SSH key. Your commits should be verified by GitHub.
-:::
-
 ## asdf
 
 [asdf](https://asdf-vm.com/) Manage multiple runtime versions with a single CLI tool:
@@ -315,6 +304,40 @@ See [Guide](https://github.com/mimemagicrb/mimemagic)
 ### PDFtk
 
 - ``` brew install pdftk-java ```
+
+## Your Pull Request at Renuo
+
+**Task:** Add your public key to the Renuo public keys repository.
+
+First, clone the [Renuo public keys](https://github.com/renuo/ssh-public.renuo.ch) repository.
+
+```bash
+git clone git@github.com:renuo/ssh-public.renuo.ch.git
+```
+
+Then add your public key named `<your-name>.pub`. You can export your public key from 1Password.
+For more information, see [Share a public key](https://developer.1password.com/docs/ssh/manage-keys/#share-a-public-key).
+
+Then commit and push your public key.
+
+```bash
+git checkout -b feature/add-<your-name>-public-key
+git add <your-name>.pub
+git commit -m "Add <your-name> public key"
+git push
+```
+
+Afterward, create a pull request on the [Renuo public keys](https://github.com/renuo/ssh-public.renuo.ch) repository.
+This will ensure that you have the correct permissions to push and correctly set up your SSH key.
+Please check if your commit is signed.
+
+Now ask someone to review your pull request.
+
+Congratulations! You have created your first pull request at Renuo.
+
+::: info Tip
+If you cannot push to the repository, you may not have the correct permissions, or you have not set up your SSH key correctly. Check out the [SSH Key Setup](#setup-ssh-key) section.
+:::
 
 ## Congratulations 🥳
 
