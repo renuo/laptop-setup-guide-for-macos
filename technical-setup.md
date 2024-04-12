@@ -34,6 +34,10 @@ Go to [Developer](https://developer.apple.com)
 1. Click on "Account", login with your **Renuo** AppleID
 2. Agree by checking boxes and submit
 
+Create a `Developer` folder in your home directory: `~/Developer`. 
+Your Mac should automatically recognise this folder and add a 🔨 icon.
+You can now use this folder to clone all your GitHub projects.
+
 ### Xcode
 
 ::: danger Warning
