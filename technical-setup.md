@@ -352,6 +352,10 @@ To keep your system up-to-date, you should run the following commands regularly:
 - ```brew upgrade```
 - ```brew cleanup```
 
+::: info Tip
+If this fails, try to run `brew doctor` or `brew tap --repair` to fix the issue.
+:::
+
 Checkout [the update script](./nice_to_have/update_script.md) for a more convenient way to update your system.
 
 ### List outdated macOS apps and update them
