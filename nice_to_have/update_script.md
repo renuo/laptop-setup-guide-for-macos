@@ -1,4 +1,3 @@
-
 # Update Brew and List Outdated Apps
 
 This script helps you update Homebrew and list outdated applications on your macOS. It also checks for available software updates and outdated macOS apps from the App Store.
