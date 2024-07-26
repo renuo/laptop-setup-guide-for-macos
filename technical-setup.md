@@ -343,6 +343,39 @@ Congratulations! You have created your first pull request at Renuo.
 If you cannot push to the repository, you may not have the correct permissions, or you have not set up your SSH key correctly. Check out the [SSH Key Setup](#setup-ssh-key) section.
 :::
 
+
+## Keep everything up-to-date
+
+To keep your system up-to-date, you should run the following commands regularly:
+
+- ```brew update```
+- ```brew upgrade```
+- ```brew cleanup```
+
+Checkout [the update script](./nice_to_have/update_script.md) for a more convenient way to update your system.
+
+### List outdated macOS apps and update them
+
+Make sure you have `mas` (Mac App Store command line interface) installed. You can install it using Homebrew:
+
+- ```brew install mas```
+
+Then you can list all outdated apps:
+
+- ```mas outdated```
+
+And update them:
+
+- ```mas upgrade```
+
+### List pending macOS updates and install them
+
+To list all pending macOS updates, you can use the following command:
+
+- ```softwareupdate -l```
+
+Go to system preferences and install the updates.
+
 ## Congratulations 🥳
 
 You are now ready to start working with the Renuo stack.
