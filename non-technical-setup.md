@@ -28,6 +28,10 @@ Each macOS version has a different "System Preferences". Some options may be mis
   - **Password:** Require Password immediately after sleep or screen saver begins
   - **FileVault:** This encrypts your hard disk. Make sure it’s enabled. Store your recovery key in iCloud Keychain.
   - **Firewall:** Turn on firewall.
+  - **Security:** Allow applications downloaded from "App Store and identified developers" (buzzword "Gatekeeper")
+
+- **Software Update**
+  - Click the "i" icon and enable all checkboxes for updates and security responses (buzzword "XProtect")
 
 - **iCloud**
   - **Find My Mac:** Turn on Find my Mac. This will allow you to find your Mac if it’s lost or stolen.
