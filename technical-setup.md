@@ -246,7 +246,7 @@ And then:
 
 To add a global ruby add:
 
-- ```asdf global ruby latest```
+- ```asdf set ruby latest```
 
 To support .ruby-version add this to your `~/.asdfrc`
 
