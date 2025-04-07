@@ -24,7 +24,7 @@ Start the machine and follow the macOS Setup.
 Open the system preferences and configure the following options. Some options need a password.
 Each macOS version has a different "System Preferences". Some options may be missing or have a different name.
 
-- **Security & Privacy**
+- **Privacy & Security**
   - **Password:** Require Password immediately after sleep or screen saver begins
   - **FileVault:** This encrypts your hard disk. Make sure it’s enabled. Store your recovery key in iCloud Keychain.
   - **Firewall:** Turn on firewall.
