@@ -12,6 +12,7 @@ Now you finished with the Setup, below are some further recommendations. Do the 
 - ⭐ [Spark](https://sparkmailapp.com/): A powerful and intelligent email client for macOS. Use this to read and organize your emails. Send emails from Gmail, since we have a custom signature.
 - ⭐ [ChatGPT](https://chat.openai.com/): A powerful AI chatbot that can help you with your daily tasks.
 - ⭐ [GitHub Copilot](https://copilot.github.com/): An AI pair programmer that helps you write code faster.
+- [Semaphore CLI](https://docs.semaphoreci.com/reference/semaphore-cli): A CLI to connect to Semaphore CI/CD and debug your failing jobs
 - [SetApp](https://setapp.com/): A subscription service for Mac apps, including many of the apps listed here
 - [Raycast](nice_to_have/raycast.md): A powerful alternative to Spotlight and Alfred. Raycast includes also a clipboard history.
 - [Notion](https://www.notion.so/): A powerful note-taking app that can be used for documentation, project management, and more.
