@@ -18,3 +18,12 @@ sudo chown -R $(whoami) /usr/local/bin
 **Useful RubyMine Plugins:**
 
 - [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink/): links Files to Github so that you can open remotely on right-click.
+
+**BetterErrors**
+
+You can directly jump from [BetterErrors](https://github.com/BetterErrors/better_errors/wiki/Link-to-your-editor) to Rubymine
+if you add this env variable to `.zshrc` (or `.zshenv`):
+
+```sh
+export BETTER_ERRORS_EDITOR=x-mine://open?file=%{file}&line=%{line}
+```
