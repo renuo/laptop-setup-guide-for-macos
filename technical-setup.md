@@ -130,6 +130,7 @@ Configure it as your login shell the following way:
 For zsh there are several plugin systems. One of them is antigen. It's very flexible and you can use repositories like oh-my-zsh with it.
 
 - ```brew install antigen```
+- ```brew install font-hack-nerd-font``` Needed for Agnoster theme
 
 **Do what it tells you to do** and try out some plugins [ZSH-Plugin Manager](https://github.com/zsh-users/antigen). For example you can put the following into your `~/.zshrc` to use oh-my-zsh:
 
