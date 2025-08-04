@@ -283,8 +283,11 @@ To add the Renuo CLI, please use the following command.
 - `cd ~`
 - `gem install renuo-cli`
 
-Add the following alias to your zshrc to avoid having to reinstall the cli every time:
+Add the following alias to your `.zshrc` to avoid having to reinstall the CLI every time:
 - ```alias renuo='mise x ruby@3.3.9 -- renuo'```
+
+You can usually find the latest version of ruby in the latest tag on rbenv: 
+https://github.com/rbenv/ruby-build/tags
 
 ## Important Homebrew Apps
 
