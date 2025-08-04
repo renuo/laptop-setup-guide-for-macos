@@ -229,7 +229,7 @@ See also [Git Commit Signing](https://blog.1password.com/git-commit-signing/)
 
 [mise](https://mise.jdx.dev/) Manage multiple runtime versions with a single CLI tool:
 
-- ```curl https://mise.run | sh```
+- ```brew install mise```
 
 Put the following into your: `~/.zshrc`:
 
