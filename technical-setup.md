@@ -243,6 +243,7 @@ Now you can install and configure the global ruby and nodejs
 To support .ruby-version run
 
 - ```mise settings add idiomatic_version_file_enable_tools ruby```
+- ```mise settings add idiomatic_version_file_enable_tools nodejs```
 
 See also [Guide](https://mise.jdx.dev/lang/ruby.html#ruby-version-and-gemfile-support)
 
