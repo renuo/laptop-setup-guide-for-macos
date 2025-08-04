@@ -233,7 +233,7 @@ See also [Git Commit Signing](https://blog.1password.com/git-commit-signing/)
 
 Put the following into your: `~/.zshrc`:
 
-- ```eval "$(~/.local/bin/mise activate zsh)"```
+- ```eval "$(/opt/homebrew/bin/mise activate zsh)"```
 
 Now you can install and configure the global ruby and nodejs
 
