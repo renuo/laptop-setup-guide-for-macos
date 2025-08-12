@@ -225,35 +225,27 @@ See also [1Password SSH Agent](https://blog.1password.com/1password-ssh-agent/)
 Setup signing your commits with 1Password.
 See also [Git Commit Signing](https://blog.1password.com/git-commit-signing/)
 
-## asdf
+## mise
 
-[asdf](https://asdf-vm.com/) Manage multiple runtime versions with a single CLI tool:
+[mise](https://mise.jdx.dev/) Manage multiple runtime versions with a single CLI tool:
 
-- ```brew install asdf```
+- ```brew install mise```
 
 Put the following into your: `~/.zshrc`:
 
-- ```. $(brew --prefix asdf)/libexec/asdf.sh```
+- ```eval "$(/opt/homebrew/bin/mise activate zsh)"```
 
-Now you can install ruby and node:
+Now you can install and configure the global ruby and nodejs
 
-- ```asdf plugin add ruby```
-- ```asdf plugin add nodejs```
+- ```mise use --global ruby@latest```
+- ```mise use --global nodejs@latest```
 
-And then:
+To support .ruby-version run
 
-- ```asdf install ruby latest```
-- ```asdf install nodejs latest```
+- ```mise settings add idiomatic_version_file_enable_tools ruby```
+- ```mise settings add idiomatic_version_file_enable_tools nodejs```
 
-To add a global ruby add:
-
-- ```asdf global ruby latest```
-
-To support .ruby-version add this to your `~/.asdfrc`
-
-- ```legacy_version_file = yes```
-
-See also [Guide](https://asdf-vm.com/guide/getting-started.html#using-existing-tool-version-files)
+See also [Guide](https://mise.jdx.dev/lang/ruby.html#ruby-version-and-gemfile-support)
 
 ## yarn
 
@@ -289,8 +281,13 @@ To add the Heroku CLI, please use the following command.
 To add the Renuo CLI, please use the following command.
 
 - `cd ~`
-- `asdf global ruby latest`
 - `gem install renuo-cli`
+
+Add the following alias to your `.zshrc` to avoid having to reinstall the CLI every time:
+- ```alias renuo='mise x ruby@3.3.9 -- renuo'```
+
+You can usually find the latest version of ruby in the latest tag on rbenv: 
+https://github.com/rbenv/ruby-build/tags
 
 ## Important Homebrew Apps
 
