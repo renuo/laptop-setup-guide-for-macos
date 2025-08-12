@@ -9,3 +9,13 @@ Install the recommended extensions:
 - List Repos (Quickly open your local git repositories)
 - Brew (List and manage your Homebrew packages)
 - Emoji Picker (Quickly insert emojis into your text)
+
+Disable existing spotlight search hotkey:
+- Go to System preferences/Keyboard
+- Click on Keyboard Shortcuts...
+- Click on Spotlight
+- Disable "Show Spotlight search"
+
+Update the default hotkey:
+- Go to Raycast Preferences `CMD + ,`
+- Set Raycast Hotkey from `ALT + SPACE` to `CMD + SPACE`
