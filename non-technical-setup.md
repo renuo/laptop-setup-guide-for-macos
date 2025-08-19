@@ -11,7 +11,7 @@ Now we're going to set up your freshly unboxed Macbook. Below we list some impor
 
 - **Apple ID:** Create a new Renuo Apple ID (Renuo email address) or use your own one.
 - **Language:** Prefer English as main language
-- **Wifi:** Use "Renuo Wifi"
+- **Wifi:** Use "Renuo Guest"
 - **Find my:** Enable Location Services
 - **iCloud:** Set up iCloud Keychain
 - **Turn on FileVault disk encryption, Allow iCloud account to unlock my disk**
@@ -47,6 +47,13 @@ _More infos about how to increase your mac security can be found here:_
 - Set up your Mac to be secure:
 [Apple Support](https://support.apple.com/guide/mac-help/set-up-your-mac-to-be-secure-flvlt003/mac)
 - For even much more information, visit this guide [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+
+### Internal Network Access
+
+Since your device is now securely setup we can switch you to the internal "Renuo Wifi".
+There is a MAC filter in place on the Unifi Cloud Key.
+Ask wg-operations per Slack to add your MAC address to the allowlist, only then can you join the internal Wifi.
+You can find your MAC address under System Settings → Wi-Fi → Advanced… (scroll down).
 
 ## Software Updates & Programs
 
