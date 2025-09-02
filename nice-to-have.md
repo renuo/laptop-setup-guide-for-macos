@@ -33,3 +33,4 @@ Now you finished with the Setup, below are some further recommendations. Do the 
 - [Bat](https://formulae.brew.sh/formula/bat): A clone of cat(1) with syntax highliting and Git integration
 - [Fake Filler](https://fakefiller.com/): Chrome extension to automatically fill out forms for testing
 - [Update Brew and List Outdated Apps](nice_to_have/update_script.md): Update Homebrew and list outdated applications on your macOS
+- [ArchiMate](https://www.archimatetool.com/): Tool for diagrams and modelling. Replacement for Asta.
