@@ -2,60 +2,84 @@
 
 This section describes how to configure **Time Machine** on your MacBook to use Renuo's NAS (Network Attached Storage) over SMB as the backup destination. This gives you automatic versioned backups of your system and data.
 
+---
 
 ## Setup Steps
 
 1. **Retrieve credentials from 1Password**
 
-   - Open 1Password.  
-   - Find the entry `[Renuo-NAS] Backup User`  
-   - Copy the:
-        1. **Username**, 
-        2. **Password**.  
-        3. **Server Address**
+   - Open **1Password**.  
+   - Find the entry **`[Renuo-NAS] Backup User`**.  
+   - Copy the:  
+     1. **Username**  
+     2. **Password**  
+     3. **Server Address**
 
    > Example placeholders:  
-   > - Server Address: `smb://NAS_ADDRESS/Backups`  
+   > - Server Address: `smb://NAS_ADDRESS/laptop_backups`  
    > - Username: `backupuser`  
    > - Password: `••••••••`
 
+   👉 Tip: You can also **click the `smb://` link directly in 1Password** to mount the NAS share without manually opening Finder. If you do so, you can skip to step 3.
+
+---
+
 2. **Connect to the SMB share**
 
-   - In Finder, press `⌘ + K` (Go → Connect to Server).  
+   - If needed manually: In Finder, press `⌘ + K` (Go → Connect to Server).  
    - Enter the server address, e.g.:  
      ```
-     smb://NAS_ADDRESS/Backups
+     smb://NAS_ADDRESS/laptop_backups
      ```  
    - Click **Connect**.  
-   - When prompted, enter the username and password you got from 1Password.  
-   - Optionally, check “Remember this password in my keychain”.
+   - When prompted, enter the username and password you copied from 1Password.  
+   - Optionally, check **“Remember this password in my keychain”**.
+
+   ⚠️ If macOS asks which volume to mount, choose **`laptop_backups`**.
+
+---
 
 3. **Enable the share for Time Machine**
 
-   - Once connected, ensure the NAS share is mounted (you see it under Locations in Finder).  
-   - Open **System Settings** > **General** > **Time Machine** (on older macOS: **System Preferences** > **Time Machine**).  
-   - Click **Select Backup Disk…**.
-   - In the list of available disks, locate your mounted SMB share (e.g. `Backups on NAS_ADDRESS`).  
-   - Select it, then click **Use Disk**.
+   - Ensure the NAS share is mounted (visible under **Locations** in Finder).  
+   - Open **System Settings → General → Time Machine**  
+     (on older macOS: **System Preferences → Time Machine**).  
+   - Click **Add Backup Disk…** (or **Select Backup Disk…**).  
+   - From the list, select the NAS share: **`laptop_backups on NAS_ADDRESS`**.  
+   - Click **Use Disk**.
+
+---
 
 4. **Authenticate if needed**
 
-   - If macOS asks for credentials when selecting the disk, again supply the NAS username/password (from 1Password).  
-   - Optionally, choose “Remember this password in my keychain” to avoid repeated prompts.
+   - If asked, enter the NAS username/password again (from 1Password).  
+
+---
 
 5. **Configure backup options**
-   - **Enable Encryption** 
-   - Choose whether to back up automatically (toggle On).  
-   - Optionally exclude large folders you don’t need (like certain media or temporary files) via the **Options…** settings in Time Machine preferences.  
-   - Review backup frequency (by default every hour) and how long backups are kept (macOS handles this automatically, removing oldest as space demands).
+
+   - **Enable Encryption** (recommended).  
+     - When prompted, set a strong password you can remember.  
+     - ⚠️ This password protects your backup — do **not** share it with anyone, and store it safely (e.g., in 1Password, **personal** vault).  
+   - Enable **Automatic Backups** (toggle On).  
+   - Set **Disk Usage Limit** to custom and with the slider set **2TB**. 
+
+   👉 Suggested frequency: **keep Automatic Backups enabled** so Time Machine runs daily. This gives you fine-grained restore points without requiring manual intervention.
+
+---
 
 6. **First backup**
 
-   - The first backup can take a long time depending on how much data you have.  
-   - Make sure your MacBook stays connected, ideally plugged in and on Wi-Fi or wired network (if you don't have wired connection at your desk you can ask for it0)
+   - The initial backup may take several hours depending on your data size.  
+   - Keep your Mac powered and connected to the network (preferably wired if possible).  
+
+---
 
 7. **Verifying backups**
 
-   - Verify that subsequent backups are occurring on schedule.  
-   - Occasionally, try restoring a few files to verify integrity.  
-   - Monitor NAS free disk space; Time Machine keeps versions until space runs out.
+   - Check that subsequent backups run hourly.  
+   - Occasionally try restoring a file using **Time Machine → Enter Time Machine** to confirm backups are working.  
+
+---
+
+✅ That’s it! Your Mac will now back up regularly to the shared NAS folder, keeping your system and files protected.
