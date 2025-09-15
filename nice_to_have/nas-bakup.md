@@ -20,7 +20,7 @@ This section describes how to configure **Time Machine** on your MacBook to use 
    > - Username: `backupuser`  
    > - Password: `••••••••`
 
-   👉 Tip: You can also **click the `smb://` link directly in 1Password** to mount the NAS share without manually opening Finder. If you do so, you can skip to step 3.
+   👉 Tip: You can also **click the `smb://` link directly in 1Password** to open the connection prompt directly without following step 2 but ensure to use username and password combo provided in 1PW. If you do so, you can skip to step 3.
 
 ---
 
@@ -46,25 +46,18 @@ This section describes how to configure **Time Machine** on your MacBook to use 
      (on older macOS: **System Preferences → Time Machine**).  
    - Click **Add Backup Disk…** (or **Select Backup Disk…**).  
    - From the list, select the NAS share: **`laptop_backups on NAS_ADDRESS`**.  
-   - Click **Use Disk**.
+   - Click **Set Up Disk**.
+   - enter the NAS username/password again (from 1Password).  
 
 ---
 
-4. **Authenticate if needed**
-
-   - If asked, enter the NAS username/password again (from 1Password).  
-
----
-
-5. **Configure backup options**
+4. **Configure backup options**
 
    - **Enable Encryption** (recommended).  
      - When prompted, set a strong password you can remember.  
      - ⚠️ This password protects your backup — do **not** share it with anyone, and store it safely (e.g., in 1Password, **personal** vault).  
-   - Enable **Automatic Backups** (toggle On).  
-   - Set **Disk Usage Limit** to custom and with the slider set **2TB**. 
-
-   👉 Suggested frequency: **keep Automatic Backups enabled** so Time Machine runs daily. This gives you fine-grained restore points without requiring manual intervention.
+   - Set **Disk Usage Limit** to custom and with the slider set a quota around **2TB**.
+   - Click **Done**.
 
 ---
 
@@ -72,14 +65,5 @@ This section describes how to configure **Time Machine** on your MacBook to use 
 
    - The initial backup may take several hours depending on your data size.  
    - Keep your Mac powered and connected to the network (preferably wired if possible).  
-
----
-
-7. **Verifying backups**
-
-   - Check that subsequent backups run hourly.  
-   - Occasionally try restoring a file using **Time Machine → Enter Time Machine** to confirm backups are working.  
-
----
 
 ✅ That’s it! Your Mac will now back up regularly to the shared NAS folder, keeping your system and files protected.
