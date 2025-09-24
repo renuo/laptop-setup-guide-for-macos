@@ -2,8 +2,6 @@
 
 This section describes how to configure **Time Machine** on your MacBook to use Renuo's NAS (Network Attached Storage) over SMB as the backup destination. This gives you automatic versioned backups of your system and data.
 
----
-
 ## Setup Steps
 
 1. **Retrieve credentials from 1Password**
