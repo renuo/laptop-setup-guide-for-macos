@@ -16,7 +16,7 @@ This section describes how to configure **Time Machine** on your MacBook to use 
      - **Username:** `backup-user`  
      - **Password:** *paste the one you copied*  
 
-   If this method doesn’t work, follow the manual step 1.1 below. Otherwise skip to step 2.
+   If this method doesn’t work, follow the manual step 1.1 below. Otherwise skip it and jump to step 2.
 
 ---
 
