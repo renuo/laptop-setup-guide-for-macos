@@ -34,4 +34,5 @@ Now you finished with the Setup, below are some further recommendations. Do the 
 - [Fake Filler](https://fakefiller.com/): Chrome extension to automatically fill out forms for testing
 - [Update Brew and List Outdated Apps](nice_to_have/update_script.md): Update Homebrew and list outdated applications on your macOS
 - [ArchiMate](https://www.archimatetool.com/): Tool for diagrams and modelling. Replacement for Asta.
-- [Time Machine Backups](nice_to_have/nas_backup.md): Automatically perform backups of your mac with Time Machine. 
+- [Time Machine Backups](nice_to_have/nas_backup.md): Automatically perform backups of your mac with Time Machine.
+- [LuLu](https://objective-see.org/products/lulu.html): User friendly firewall (Apple network extension)
