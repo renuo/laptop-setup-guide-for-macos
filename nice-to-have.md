@@ -38,3 +38,4 @@ Now you finished with the Setup, below are some further recommendations. Do the 
 - [ArchiMate](https://www.archimatetool.com/): Tool for diagrams and modelling. Replacement for Asta.
 - [Time Machine Backups](nice_to_have/nas_backup.md): Automatically perform backups of your mac with Time Machine.
 - [LuLu](https://objective-see.org/products/lulu.html): User friendly firewall (Apple network extension)
+- [NCDU](https://formulae.brew.sh/formula/ncdu): NCurses Disk Usage. Nice alternative to CleanMyMac disk mapping and cleaning. [showcase](https://dev.to/0xkoji/time-to-clean-my-machine-with-ncdu-4add)
