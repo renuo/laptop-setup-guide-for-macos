@@ -57,6 +57,7 @@ export default defineConfig({
           { text: 'Non-Technical Setup', link: '/non-technical-setup' },
           { text: 'Technical Setup', link: '/technical-setup' },
           { text: 'Nice to have', link: '/nice-to-have' },
+          { text: 'AI Agents', link: '/ai-agents' },
         ],
       },
       { text: 'Shortcuts', link: '/shortcuts' },
