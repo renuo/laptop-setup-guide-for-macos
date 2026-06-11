@@ -15,6 +15,7 @@ Now we're going to set up your freshly unboxed Macbook. Below we list some impor
 - **Find my:** Enable Location Services
 - **iCloud:** Set up iCloud Keychain
 - **Turn on FileVault disk encryption, Allow iCloud account to unlock my disk**
+- **AI Agents:** If you want to use things like Claude Code, check out [AI Agents](./ai-agents.md)
 
 All other things are optional and you can choose them by yourself.
 Start the machine and follow the macOS Setup.
