@@ -46,9 +46,14 @@ safehouse claude
 ### zsh
 
 This is an example configuration @schmijos uses.
-Since you can assume that things might go wrong anyways, it enables
-the comfort mode (not asking for permission). Be aware that only
-Claude supports the [auto-mode](https://www.anthropic.com/engineering/claude-code-auto-mode)
+
+The assumption here is that there is a trade-off between security and comfort.
+Because the normal approval-based approach doesn't give any more real security
+we go explicitly for the unsafe but comfortable setting in the agents.
+For real security we have _safehouse_.
+
+Claude offers a better trade-off with it's security reviewing agentic-hook called
+[auto-mode](https://www.anthropic.com/engineering/claude-code-auto-mode)
 since [May 2026](https://code.claude.com/docs/en/whats-new/2026-w21).
 
 ```zsh
