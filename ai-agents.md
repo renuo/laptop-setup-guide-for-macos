@@ -52,7 +52,7 @@ Because the normal approval-based approach doesn't give any more real security
 we go explicitly for the unsafe but comfortable setting in the agents.
 For real security we have _safehouse_.
 
-Claude offers a better trade-off with it's security reviewing agentic-hook called
+Only Claude offers a better trade-off with it's security reviewing agentic-hook called
 [auto-mode](https://www.anthropic.com/engineering/claude-code-auto-mode)
 since [May 2026](https://code.claude.com/docs/en/whats-new/2026-w21).
 
