@@ -227,16 +227,15 @@ You should now have three relevant config files:
 
 * `~/.config/1Password/ssh/agent.toml` listing the available vaults
 * `~/.ssh/1Password/config` with all bookmarks for precise host matching
-* `~/.ssh/config` containing
-  * containing at the top
-    ```
-    Include ~/.ssh/1Password/config
-    ```
-  * containing at the bottom
-    ```
-    Host *
-	     IdentityAgent "~/Library/Group Containers/….com.1password/t/agent.sock"
-    ```
+* `~/.ssh/config` looking like this:
+  ```
+  Include ~/.ssh/1Password/config
+  
+  …
+  
+  Host *
+    IdentityAgent "~/Library/Group Containers/….com.1password/t/agent.sock"
+  ```
 
 If you find yourself with stale configs you can re-issue with
 disabling/enablign the checkboxes in 1Password.
