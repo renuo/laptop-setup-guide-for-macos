@@ -225,7 +225,7 @@ We have many SSH keys. So the default config will run into the issue of
 Therefore check the option "Generate SSH config file with bookmarked hosts".
 You should now have three relevant config files:
 
-* `~/.config/1Password/ssh/agent.toml` listing the available vaults
+* `~/.config/1Password/ssh/agent.toml` listing the vaults you need:
 * `~/.ssh/1Password/config` with all bookmarks for precise host matching
 * `~/.ssh/config` looking like this:
   ```
