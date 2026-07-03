@@ -238,7 +238,7 @@ You should now have three relevant config files:
   ```
 
 If you find yourself with stale configs you can re-issue with
-disabling/enablign the checkboxes in 1Password.
+disabling/enabling the checkboxes in 1Password.
 
 **Git Commit Signing**
 
