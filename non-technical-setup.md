@@ -113,8 +113,8 @@ Now set your nickname to your fist name, all lowercase. E.g. Max Muster = max
 
 ### Google Chrome Extensions
 
-1. **GitHub PR-Counter:** There's a Chrome plugin which shows how many pull requests you have. You can follow the instructions of the Plugin to set it up.
-2. **1Password:** Ask someone to add you to the Renuo Account. Then follow the instructions in the mail.
+1. [**GitHub PR-Counter**](https://github.com/renuo/github-pull-request-counter): There's a Chrome plugin which shows how many pull requests you have. You can follow the instructions of the Plugin to set it up.
+2. [**1Password**](https://1password.com/downloads/browser-extension): Ask someone to add you to the Renuo Account. Then follow the instructions in the mail.
 
 Feel free to install any other extension that you like.
 
