@@ -25,7 +25,7 @@ Apply now following adjustments to your configuration.
 
 ### System Preferences
 
-The following settings are required for a secure default mode of working.
+The following settings are **required** for a secure default mode of working.
 If you think something is not needed, then discuss it with a coworker.
 
 Open the system preferences and configure the following options. Some options need a password.
