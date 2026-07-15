@@ -5,36 +5,39 @@ If you are experienced you can choose your own setup, but we recommend that you 
 
 ## macOS Setup
 
-Now we're going to set up your freshly unboxed Macbook. Below we list some important/useful settings, you should consider applying
+Now we're going to set up your freshly unboxed Macbook.
+Below we list some important settings.
+Not applying them needs a good reason.
 
 **Read them first:**
 
 - **Apple ID:** Create a new Renuo Apple ID (Renuo email address) or use your own one.
 - **Language:** Prefer English as main language
+- **Keyboard:** Prefer US layout if you're a programmer
 - **Wifi:** Use "Renuo Guest"
 - **Find my:** Enable Location Services
 - **iCloud:** Set up iCloud Keychain
-- **Turn on FileVault disk encryption, Allow iCloud account to unlock my disk**
-- **AI Agents:** If you want to use things like Claude Code, check out [AI Agents](./ai-agents.md)
+- **Fingerprint sensor**: Set it up
+- **Password**: Choose something strong (e.g. 4 words)
 
-All other things are optional and you can choose them by yourself.
-Start the machine and follow the macOS Setup.
+You should now see the desktop.
+Apply now following adjustments to your configuration.
 
-### Further important settings: System Preferences
+### System Preferences
+
+The following settings are **required** for a secure default mode of working.
+If you think something is not needed, then discuss it with a coworker.
 
 Open the system preferences and configure the following options. Some options need a password.
 Each macOS version has a different "System Preferences". Some options may be missing or have a different name.
 
-- **Security & Privacy**
-  - **Password:** Require password after max. 10 minutes of inactivity.
-  - **FileVault:** This encrypts your hard disk. Make sure it’s enabled. Store your recovery key in iCloud Keychain.
-  - **Firewall:** Turn on firewall.
-  - **Security:** Allow applications downloaded from "App Store and identified developers" (buzzword "Gatekeeper")
+- **Lock Screen**: Require password after screen saver begins or display is turned off in max. 10min
+- **FileVault**: Make sure FileVault is enabled and the recovery key is stored in the iCloud Keychain.
+- **Firewall**: Make sure it's turned on.
+- **Privacy && Security**: Allow applications downloaded from "App Store and identified developers" (buzzword "Gatekeeper")
+- **Software Update**: Click the ⓘ next to Automatic updates and enable all checkboxes for updates and security responses (buzzword "XProtect")
 
-- **Software Update**
-  - Click the "i" icon and enable all checkboxes for updates and security responses (buzzword "XProtect")
-
-- **iCloud**
+- **iCloud**: Click "See All" next to "Saved to iCloud".
   - **Find My Mac:** Turn on Find my Mac. This will allow you to find your Mac if it’s lost or stolen.
   - Disable everything else because we're going to synchronize everything with Google in the next step.
 
@@ -48,6 +51,10 @@ _More infos about how to increase your mac security can be found here:_
 - Set up your Mac to be secure:
 [Apple Support](https://support.apple.com/guide/mac-help/set-up-your-mac-to-be-secure-flvlt003/mac)
 - For even much more information, visit this guide [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+
+### AI Agents
+
+If you want to use things like Claude Code, check out [AI Agents](./ai-agents.md)
 
 ### Internal Network Access
 
@@ -68,9 +75,8 @@ Although you are free to use your favorite Browser on a daily basis, we require 
 
 ### 1Password
 
-We use 1Password to store all our passwords. Download the **[latest 1Password from the website](https://1password.com/de/downloads/)** and login with your @renuo.ch account.
-
-
+We use 1Password to store all our passwords.
+Download the **[latest 1Password from the website](https://1password.com/de/downloads/)** and login with your @renuo.ch account.
 
 From now on, you should use 1Password to store **all your passwords**.
 
