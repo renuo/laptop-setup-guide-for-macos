@@ -65,7 +65,7 @@ You can find your MAC address under System Settings → Wi-Fi → Advanced… (s
 
 ### Printer Setup
 
-Follow the [printer setup guide](https://docs.google.com/document/d/1YWBC0E1H8pJCNDgIH3rlA4ZAken-UfUsqD1R9ju0PwA/edit?tab=t.0) to add a printer to your Mac.
+Follow the [printer setup guide](https://docs.google.com/document/d/1YWBC0E1H8pJCNDgIH3rlA4ZAken-UfUsqD1R9ju0PwA/preview) to add a printer to your Mac.
 
 ## Software Updates & Programs
 
