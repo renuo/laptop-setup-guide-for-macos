@@ -63,6 +63,10 @@ There is a MAC filter in place on the Unifi Cloud Key.
 Ask wg-operations per Slack to add your MAC address to the allowlist, only then can you join the internal Wifi.
 You can find your MAC address under System Settings → Wi-Fi → Advanced… (scroll down).
 
+### Printer Setup
+
+Follow the [printer setup guide](https://docs.google.com/document/d/1YWBC0E1H8pJCNDgIH3rlA4ZAken-UfUsqD1R9ju0PwA/preview) to add a printer to your Mac.
+
 ## Software Updates & Programs
 
 ### Google Chrome
