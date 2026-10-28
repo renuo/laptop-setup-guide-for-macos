@@ -1,10 +1,13 @@
 # AI Agents
 
-Using AI coding angents like [Claude Caude](https://code.claude.com/docs/),
-[OpenCode](https://opencode.ai/) or [Codex](https://openai.com/codex/) is
-encouraged at Renuo.
+At Renuo we expect every Software Engineer to use an AI coding agent.
 
-But when using it you **must** make sure to do so in a safe way!
+By default, Renuo expects you to have [Claude Caude](https://code.claude.com/docs/) installed (and/or Claude Desktop).
+Renuo provides you also with a 20$/month Anthropic subscription. 
+
+If at any time, you need a larger plan or want to switch to another provider, like [OpenCode](https://opencode.ai/) or [Codex](https://openai.com/codex/), just ask.
+
+When using AI Agents you **must** make sure to do so in a safe way!
 
 > LLMs are probabilistic - **1%** chance of disaster makes it a matter of ***when***, not ***if***. 
 >
