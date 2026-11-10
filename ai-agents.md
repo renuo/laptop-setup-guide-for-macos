@@ -30,6 +30,15 @@ brew install nono
 nono run --profile claude --allow-cwd -- claude
 ```
 
+### Configuration
+
+nono.sh supports reusable profiles. You can find some here:
+
+ * <https://github.com/rnestler/dotfiles/tree/master/config/nono/profiles>
+
+Also there is an easy launcher to select matching profiles depending on the
+project: <https://github.com/rnestler/nono-wrappers>
+
 ## [agent-safehouse](https://agent-safehouse.dev/)
 
 MacOS only.
